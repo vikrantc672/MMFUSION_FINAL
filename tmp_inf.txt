@@ -1,0 +1,6 @@
+/home/vikrant/Downloads/MMFUSION-github_main/data/photos/b1.jpg None 0
+/home/vikrant/Downloads/MMFUSION-github_main/data/photos/b5.jpg None 0
+/home/vikrant/Downloads/MMFUSION-github_main/data/photos/7_2XXXX183.jpg None 0
+/home/vikrant/Downloads/MMFUSION-github_main/data/photos/b3.jpg None 0
+/home/vikrant/Downloads/MMFUSION-github_main/data/photos/b2.jpg None 0
+/home/vikrant/Downloads/MMFUSION-github_main/data/photos/b4.jpg None 0

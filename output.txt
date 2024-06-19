@@ -1,0 +1,21 @@
+/home/vikrant/Downloads/MMFUSION-github_main
+pretrained/noiseprint/np++.pth
+Mask already exists for /home/vikrant/Downloads/MMFUSION-github_main/data/photos/b1.jpg, skipping.
+Mask already exists for /home/vikrant/Downloads/MMFUSION-github_main/data/photos/b5.jpg, skipping.
+Processed /home/vikrant/Downloads/MMFUSION-github_main/data/photos/7_2XXXX183.jpg
+Detection score: 4.358993053436279
+Localization map saved in ./data/mask/7_2XXXX183_mask.png
+Mask already exists for /home/vikrant/Downloads/MMFUSION-github_main/data/photos/b3.jpg, skipping.
+Mask already exists for /home/vikrant/Downloads/MMFUSION-github_main/data/photos/b2.jpg, skipping.
+Mask already exists for /home/vikrant/Downloads/MMFUSION-github_main/data/photos/b4.jpg, skipping.
+Processed all images in /home/vikrant/Downloads/MMFUSION-github_main/data/photos
+Scores saved to scoresphotos_MM.csv
+Bonafide: 5
+Morph:    1
+Total:   6
+Morphs Percentage:  16.666666666666664
+Bonafide Percentage:  83.33333333333334
+Morph Files As per MMFUSION:
+ ['7_2XXXX183']
+Bonafide Files As per MMFUSION:
+ ['b1', 'b5', 'b3', 'b2', 'b4']

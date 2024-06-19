@@ -1,0 +1,3074 @@
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_114871_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_114871_up.png',)
+Detection: 0.524732768535614, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_563758_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_563758_up.png',)
+Detection: 0.5020526051521301, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_73326_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_73326_up.png',)
+Detection: 0.5191430449485779, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_493334_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_493334_up.png',)
+Detection: 0.5082734227180481, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_364322_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_364322_up.png',)
+Detection: 0.5181240439414978, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_405205_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_405205_up.png',)
+Detection: 0.5366963744163513, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_66135_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_66135_up.png',)
+Detection: 0.5062840580940247, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_95843_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_95843_up.png',)
+Detection: 0.5179125666618347, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_164363_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_164363_up.png',)
+Detection: 0.5199966430664062, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_128598_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_128598_up.png',)
+Detection: 0.5014320015907288, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_80949_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_80949_up.png',)
+Detection: 0.521425187587738, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_409268_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_409268_up.png',)
+Detection: 0.5110204815864563, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_402992_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_402992_up.png',)
+Detection: 0.5126852989196777, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_66841_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_66841_up.png',)
+Detection: 0.5155611634254456, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_221213_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_221213_up.png',)
+Detection: 0.5285950303077698, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_331352_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_331352_up.png',)
+Detection: 0.5207311511039734, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_220310_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_220310_up.png',)
+Detection: 0.5291140079498291, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_270402_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_270402_up.png',)
+Detection: 0.638576328754425, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_66635_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_66635_up.png',)
+Detection: 0.543611466884613, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_201934_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_201934_up.png',)
+Detection: 0.5539429187774658, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_53994_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_53994_up.png',)
+Detection: 0.5396247506141663, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_387098_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_387098_up.png',)
+Detection: 0.5538012981414795, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_355905_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_355905_up.png',)
+Detection: 0.5484811663627625, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_267434_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_267434_up.png',)
+Detection: 0.5699575543403625, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_56344_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_56344_up.png',)
+Detection: 0.5779334306716919, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_346707_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_346707_up.png',)
+Detection: 0.5248421430587769, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_435880_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_435880_up.png',)
+Detection: 0.5102230310440063, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_450439_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_450439_up.png',)
+Detection: 0.5389291048049927, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_561335_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_561335_up.png',)
+Detection: 0.5600793361663818, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_415238_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_415238_up.png',)
+Detection: 0.5772920846939087, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_562059_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_562059_up.png',)
+Detection: 0.5011624693870544, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_27932_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_27932_up.png',)
+Detection: 0.5487568378448486, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_369757_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_369757_up.png',)
+Detection: 0.5525919198989868, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_224051_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_224051_up.png',)
+Detection: 0.6196644902229309, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_173091_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_173091_up.png',)
+Detection: 0.5223449468612671, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_121506_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_121506_up.png',)
+Detection: 0.5378167033195496, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_184400_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_184400_up.png',)
+Detection: 0.5593512058258057, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_572517_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_572517_up.png',)
+Detection: 0.5429111123085022, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_350388_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_350388_up.png',)
+Detection: 0.504574179649353, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_170595_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_170595_up.png',)
+Detection: 0.550138533115387, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_2592_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_2592_up.png',)
+Detection: 0.531843364238739, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_34205_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_34205_up.png',)
+Detection: 0.5643027424812317, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_372260_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_372260_up.png',)
+Detection: 0.5653239488601685, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_314034_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_314034_up.png',)
+Detection: 0.5745118856430054, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_528524_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_528524_up.png',)
+Detection: 0.6296517848968506, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_549167_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_549167_up.png',)
+Detection: 0.5311341285705566, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_571943_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_571943_up.png',)
+Detection: 0.5182639360427856, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_3501_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_3501_up.png',)
+Detection: 0.5339598655700684, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_159282_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_159282_up.png',)
+Detection: 0.5489978790283203, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_561366_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_561366_up.png',)
+Detection: 0.5308906435966492, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_191580_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_191580_up.png',)
+Detection: 0.5287342667579651, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_116362_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_116362_up.png',)
+Detection: 0.5250428318977356, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_47769_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_47769_up.png',)
+Detection: 0.5639734268188477, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_386210_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_386210_up.png',)
+Detection: 0.5553044080734253, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_146363_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_146363_up.png',)
+Detection: 0.5968530774116516, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_417876_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_417876_up.png',)
+Detection: 0.5455858707427979, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_544052_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_544052_up.png',)
+Detection: 0.5222238302230835, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_222991_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_222991_up.png',)
+Detection: 0.5296406745910645, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_72813_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_72813_up.png',)
+Detection: 0.5604330897331238, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_81061_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_81061_up.png',)
+Detection: 0.5940715670585632, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_426166_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_426166_up.png',)
+Detection: 0.5541098117828369, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_567432_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_567432_up.png',)
+Detection: 0.6127143502235413, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_293474_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_293474_up.png',)
+Detection: 0.5650933384895325, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_44652_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_44652_up.png',)
+Detection: 0.5879226326942444, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_208901_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_208901_up.png',)
+Detection: 0.5988414287567139, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_366141_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_366141_up.png',)
+Detection: 0.574635922908783, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_36844_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_36844_up.png',)
+Detection: 0.6395595073699951, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_285788_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_285788_up.png',)
+Detection: 0.5750262141227722, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_231822_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_231822_up.png',)
+Detection: 0.5257251262664795, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_452084_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_452084_up.png',)
+Detection: 0.6057014465332031, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_217614_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_217614_up.png',)
+Detection: 0.5638629198074341, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_308753_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_308753_up.png',)
+Detection: 0.5475949048995972, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_263860_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_263860_up.png',)
+Detection: 0.5044658780097961, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_95786_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_95786_up.png',)
+Detection: 0.5016096234321594, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_287959_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_287959_up.png',)
+Detection: 0.5075840950012207, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_330790_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_330790_up.png',)
+Detection: 0.5281909704208374, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_377814_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_377814_up.png',)
+Detection: 0.5021470785140991, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_451150_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_451150_up.png',)
+Detection: 0.519525945186615, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_361571_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_361571_up.png',)
+Detection: 0.5276703238487244, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_101762_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_101762_up.png',)
+Detection: 0.5116479992866516, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_24144_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_24144_up.png',)
+Detection: 0.5358598232269287, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_304545_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_304545_up.png',)
+Detection: 0.5052288770675659, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_283038_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_283038_up.png',)
+Detection: 0.5159420371055603, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_182417_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_182417_up.png',)
+Detection: 0.553589940071106, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_534639_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_534639_up.png',)
+Detection: 0.5302265882492065, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_232489_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_232489_up.png',)
+Detection: 0.5124741792678833, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_133778_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_133778_up.png',)
+Detection: 0.526299238204956, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_168593_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_168593_up.png',)
+Detection: 0.5338550209999084, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_402473_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_402473_up.png',)
+Detection: 0.5090579390525818, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_435299_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_435299_up.png',)
+Detection: 0.6050041913986206, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_317024_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_317024_up.png',)
+Detection: 0.541598916053772, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_50896_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_50896_up.png',)
+Detection: 0.5182291865348816, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_147498_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_147498_up.png',)
+Detection: 0.5818420052528381, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_410878_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_410878_up.png',)
+Detection: 0.556708037853241, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_203546_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_203546_up.png',)
+Detection: 0.5357859134674072, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_185409_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_185409_up.png',)
+Detection: 0.547278642654419, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_518213_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_518213_up.png',)
+Detection: 0.5254645347595215, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_293858_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_293858_up.png',)
+Detection: 0.5273935198783875, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_51326_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_51326_up.png',)
+Detection: 0.5072543621063232, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_198960_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_198960_up.png',)
+Detection: 0.5474147796630859, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_328117_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_328117_up.png',)
+Detection: 0.5011856555938721, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_272416_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_272416_up.png',)
+Detection: 0.5374197363853455, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_420472_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_420472_up.png',)
+Detection: 0.5544840693473816, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_20247_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_20247_up.png',)
+Detection: 0.5416210889816284, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_319617_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_319617_up.png',)
+Detection: 0.5215098261833191, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_433374_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_433374_up.png',)
+Detection: 0.5543546080589294, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_244411_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_244411_up.png',)
+Detection: 0.5593390464782715, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_75393_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_75393_up.png',)
+Detection: 0.5518931150436401, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_529105_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_529105_up.png',)
+Detection: 0.5117565989494324, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_394328_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_394328_up.png',)
+Detection: 0.5369800925254822, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_85195_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_85195_up.png',)
+Detection: 0.5556209087371826, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_356498_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_356498_up.png',)
+Detection: 0.5225964188575745, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_15517_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_15517_up.png',)
+Detection: 0.5543445944786072, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_284296_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_284296_up.png',)
+Detection: 0.559445858001709, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_533206_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_533206_up.png',)
+Detection: 0.5433247685432434, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_233033_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_233033_up.png',)
+Detection: 0.5577985048294067, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_418961_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_418961_up.png',)
+Detection: 0.5537576079368591, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_579893_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_579893_up.png',)
+Detection: 0.5333609580993652, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_383621_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_383621_up.png',)
+Detection: 0.5953119397163391, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_508639_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_508639_up.png',)
+Detection: 0.5201435089111328, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_60449_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_60449_up.png',)
+Detection: 0.5783711075782776, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_375078_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_375078_up.png',)
+Detection: 0.5786081552505493, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_328683_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_328683_up.png',)
+Detection: 0.5696070790290833, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_36861_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_36861_up.png',)
+Detection: 0.5667347311973572, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_23023_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_23023_up.png',)
+Detection: 0.5917286276817322, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_129054_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_129054_up.png',)
+Detection: 0.5295812487602234, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_505573_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_505573_up.png',)
+Detection: 0.5495868921279907, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_340272_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_340272_up.png',)
+Detection: 0.6246145963668823, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_196843_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_196843_up.png',)
+Detection: 0.6049990057945251, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_194746_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_194746_up.png',)
+Detection: 0.5486273765563965, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_3845_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_3845_up.png',)
+Detection: 0.5471284985542297, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_314914_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_314914_up.png',)
+Detection: 0.5464046001434326, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_15440_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_15440_up.png',)
+Detection: 0.5531876683235168, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_355677_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_355677_up.png',)
+Detection: 0.5833027362823486, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_526392_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_526392_up.png',)
+Detection: 0.5413758754730225, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_559707_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_559707_up.png',)
+Detection: 0.5165950059890747, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_153632_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_153632_up.png',)
+Detection: 0.5224059820175171, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_471869_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_471869_up.png',)
+Detection: 0.5041280388832092, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416837_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416837_up.png',)
+Detection: 0.6098800301551819, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_226883_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_226883_up.png',)
+Detection: 0.5039398074150085, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_29675_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_29675_up.png',)
+Detection: 0.5254156589508057, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_456394_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_456394_up.png',)
+Detection: 0.5039031505584717, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416330_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416330_up.png',)
+Detection: 0.5175923705101013, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_122969_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_122969_up.png',)
+Detection: 0.5033145546913147, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_22589_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_22589_up.png',)
+Detection: 0.5360238552093506, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_222863_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_222863_up.png',)
+Detection: 0.5251531600952148, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_537802_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_537802_up.png',)
+Detection: 0.5234255194664001, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_370900_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_370900_up.png',)
+Detection: 0.5093076229095459, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_129135_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_129135_up.png',)
+Detection: 0.5669817924499512, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416269_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416269_up.png',)
+Detection: 0.5414745807647705, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_25139_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_25139_up.png',)
+Detection: 0.5030673742294312, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_486046_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_486046_up.png',)
+Detection: 0.5300750136375427, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_322211_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_322211_up.png',)
+Detection: 0.5052078366279602, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_84650_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_84650_up.png',)
+Detection: 0.5273584127426147, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_380203_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_380203_up.png',)
+Detection: 0.5225737690925598, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_451693_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_451693_up.png',)
+Detection: 0.5405534505844116, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_196759_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_196759_up.png',)
+Detection: 0.540852427482605, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_269866_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_269866_up.png',)
+Detection: 0.5242453813552856, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_283113_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_283113_up.png',)
+Detection: 0.5158101916313171, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_76417_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_76417_up.png',)
+Detection: 0.5375134944915771, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_438226_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_438226_up.png',)
+Detection: 0.5395961999893188, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_139871_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_139871_up.png',)
+Detection: 0.5807485580444336, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_214200_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_214200_up.png',)
+Detection: 0.5645817518234253, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_521282_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_521282_up.png',)
+Detection: 0.5181111097335815, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_228981_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_228981_up.png',)
+Detection: 0.5251574516296387, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_577584_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_577584_up.png',)
+Detection: 0.559251070022583, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_1675_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_1675_up.png',)
+Detection: 0.5241742730140686, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_288391_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_288391_up.png',)
+Detection: 0.5604352951049805, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_304817_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_304817_up.png',)
+Detection: 0.5159208178520203, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_431140_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_431140_up.png',)
+Detection: 0.5654208660125732, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_553094_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_553094_up.png',)
+Detection: 0.5330990552902222, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_189078_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_189078_up.png',)
+Detection: 0.5637380480766296, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_323709_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_323709_up.png',)
+Detection: 0.5591062903404236, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_146489_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_146489_up.png',)
+Detection: 0.5665604472160339, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_194724_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_194724_up.png',)
+Detection: 0.5395306348800659, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_59920_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_59920_up.png',)
+Detection: 0.5219408869743347, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_393014_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_393014_up.png',)
+Detection: 0.6215123534202576, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_48924_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_48924_up.png',)
+Detection: 0.5757610201835632, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_147518_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_147518_up.png',)
+Detection: 0.5830938816070557, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_133233_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_133233_up.png',)
+Detection: 0.5534415245056152, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_516871_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_516871_up.png',)
+Detection: 0.5657594203948975, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_575500_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_575500_up.png',)
+Detection: 0.5477002263069153, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_228436_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_228436_up.png',)
+Detection: 0.5854779481887817, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_85911_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_85911_up.png',)
+Detection: 0.5666903853416443, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_20059_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_20059_up.png',)
+Detection: 0.6039103269577026, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_370478_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_370478_up.png',)
+Detection: 0.565148651599884, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_164115_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_164115_up.png',)
+Detection: 0.5722692012786865, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_491725_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_491725_up.png',)
+Detection: 0.5891727805137634, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_69795_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_69795_up.png',)
+Detection: 0.5521723628044128, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_390301_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_390301_up.png',)
+Detection: 0.5392556190490723, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_138550_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_138550_up.png',)
+Detection: 0.6077787280082703, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_78959_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_78959_up.png',)
+Detection: 0.5632603168487549, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_269932_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_269932_up.png',)
+Detection: 0.5508951544761658, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_460379_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_460379_up.png',)
+Detection: 0.5779696702957153, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_211069_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_211069_up.png',)
+Detection: 0.5716320872306824, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_552612_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_552612_up.png',)
+Detection: 0.5327432751655579, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_85576_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_85576_up.png',)
+Detection: 0.6076018214225769, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_313130_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_313130_up.png',)
+Detection: 0.5665419697761536, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_32285_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_32285_up.png',)
+Detection: 0.5533427596092224, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_17178_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_17178_up.png',)
+Detection: 0.5736439824104309, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_221693_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_221693_up.png',)
+Detection: 0.5082241296768188, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_465430_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_465430_up.png',)
+Detection: 0.5211020708084106, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_340175_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_340175_up.png',)
+Detection: 0.5925255417823792, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_210030_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_210030_up.png',)
+Detection: 0.5712780952453613, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_68765_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_68765_up.png',)
+Detection: 0.5403755307197571, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_25986_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_25986_up.png',)
+Detection: 0.5419540405273438, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_335427_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_335427_up.png',)
+Detection: 0.5122642517089844, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_347664_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_347664_up.png',)
+Detection: 0.5339549779891968, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_392818_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_392818_up.png',)
+Detection: 0.5341204404830933, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_283717_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_283717_up.png',)
+Detection: 0.5251266360282898, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_407574_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_407574_up.png',)
+Detection: 0.5530890822410583, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_290833_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_290833_up.png',)
+Detection: 0.5351057648658752, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_100582_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_100582_up.png',)
+Detection: 0.5330629348754883, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_279145_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_279145_up.png',)
+Detection: 0.5558294653892517, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_579091_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_579091_up.png',)
+Detection: 0.5029476881027222, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_474164_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_474164_up.png',)
+Detection: 0.5228742957115173, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_63552_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_63552_up.png',)
+Detection: 0.5069500207901001, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_125952_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_125952_up.png',)
+Detection: 0.525387704372406, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_43581_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_43581_up.png',)
+Detection: 0.5382855534553528, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_110638_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_110638_up.png',)
+Detection: 0.5104008316993713, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_540928_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_540928_up.png',)
+Detection: 0.509105384349823, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_279887_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_279887_up.png',)
+Detection: 0.5186682343482971, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_161820_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_161820_up.png',)
+Detection: 0.5220261812210083, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_337498_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_337498_up.png',)
+Detection: 0.5153225660324097, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_125062_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_125062_up.png',)
+Detection: 0.5140115022659302, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_485130_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_485130_up.png',)
+Detection: 0.5114211440086365, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_493284_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_493284_up.png',)
+Detection: 0.5210636854171753, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_57232_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_57232_up.png',)
+Detection: 0.5242827534675598, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_393838_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_393838_up.png',)
+Detection: 0.5069879293441772, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_523782_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_523782_up.png',)
+Detection: 0.5298069715499878, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_453860_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_453860_up.png',)
+Detection: 0.5164334177970886, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_333956_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_333956_up.png',)
+Detection: 0.5404579639434814, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_335450_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_335450_up.png',)
+Detection: 0.5365602970123291, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_231527_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_231527_up.png',)
+Detection: 0.5386573076248169, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_134689_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_134689_up.png',)
+Detection: 0.6208330392837524, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_543300_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_543300_up.png',)
+Detection: 0.557386577129364, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_32610_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_32610_up.png',)
+Detection: 0.5420047044754028, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_368684_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_368684_up.png',)
+Detection: 0.5544785857200623, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_132116_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_132116_up.png',)
+Detection: 0.5198259949684143, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_180798_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_180798_up.png',)
+Detection: 0.512556791305542, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_402433_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_402433_up.png',)
+Detection: 0.5183722972869873, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416885_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416885_up.png',)
+Detection: 0.550495445728302, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_129113_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_129113_up.png',)
+Detection: 0.5195027589797974, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_430871_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_430871_up.png',)
+Detection: 0.5390849113464355, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_322574_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_322574_up.png',)
+Detection: 0.5299761891365051, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_131938_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_131938_up.png',)
+Detection: 0.5257935523986816, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_377575_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_377575_up.png',)
+Detection: 0.5254223346710205, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_133645_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_133645_up.png',)
+Detection: 0.581024706363678, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_293071_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_293071_up.png',)
+Detection: 0.5884460806846619, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_424721_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_424721_up.png',)
+Detection: 0.6036819219589233, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_344614_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_344614_up.png',)
+Detection: 0.5405993461608887, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_365385_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_365385_up.png',)
+Detection: 0.5216813087463379, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_377882_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_377882_up.png',)
+Detection: 0.5554859638214111, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_225532_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_225532_up.png',)
+Detection: 0.5660361051559448, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_127182_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_127182_up.png',)
+Detection: 0.5726005434989929, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_433192_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_433192_up.png',)
+Detection: 0.5419082045555115, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_318114_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_318114_up.png',)
+Detection: 0.5648617148399353, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_474170_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_474170_up.png',)
+Detection: 0.6281861662864685, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_267351_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_267351_up.png',)
+Detection: 0.569005012512207, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_241319_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_241319_up.png',)
+Detection: 0.5773522257804871, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_225184_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_225184_up.png',)
+Detection: 0.5564156770706177, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_194216_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_194216_up.png',)
+Detection: 0.5949122905731201, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_11813_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_11813_up.png',)
+Detection: 0.5195819735527039, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_92177_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_92177_up.png',)
+Detection: 0.5470543503761292, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_556765_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_556765_up.png',)
+Detection: 0.534015417098999, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_98839_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_98839_up.png',)
+Detection: 0.5491116046905518, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_300842_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_300842_up.png',)
+Detection: 0.5729781985282898, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_232348_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_232348_up.png',)
+Detection: 0.5595726370811462, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_428280_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_428280_up.png',)
+Detection: 0.5392593741416931, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_486479_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_486479_up.png',)
+Detection: 0.5492173433303833, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_408830_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_408830_up.png',)
+Detection: 0.5285013318061829, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_61471_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_61471_up.png',)
+Detection: 0.5504425764083862, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_14888_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_14888_up.png',)
+Detection: 0.5012903809547424, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_77396_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_77396_up.png',)
+Detection: 0.5706400275230408, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_166563_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_166563_up.png',)
+Detection: 0.5290707349777222, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_39956_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_39956_up.png',)
+Detection: 0.5086689591407776, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_446522_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_446522_up.png',)
+Detection: 0.5344526171684265, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_357501_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_357501_up.png',)
+Detection: 0.5010305047035217, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_341058_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_341058_up.png',)
+Detection: 0.539750337600708, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_157390_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_157390_up.png',)
+Detection: 0.5097362399101257, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_99428_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_99428_up.png',)
+Detection: 0.507362961769104, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_251119_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_251119_up.png',)
+Detection: 0.5330866575241089, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_245764_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_245764_up.png',)
+Detection: 0.5173129439353943, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_384651_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_384651_up.png',)
+Detection: 0.504328727722168, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_296969_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_296969_up.png',)
+Detection: 0.5775893926620483, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_389315_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_389315_up.png',)
+Detection: 0.5080162882804871, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_530052_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_530052_up.png',)
+Detection: 0.5141004920005798, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_269196_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_269196_up.png',)
+Detection: 0.509531557559967, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_79408_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_79408_up.png',)
+Detection: 0.518345296382904, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_540280_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_540280_up.png',)
+Detection: 0.5430942177772522, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_156372_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_156372_up.png',)
+Detection: 0.5294224619865417, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_167128_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_167128_up.png',)
+Detection: 0.5591819882392883, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_452122_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_452122_up.png',)
+Detection: 0.5744975209236145, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_131131_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_131131_up.png',)
+Detection: 0.5428841710090637, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_140929_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_140929_up.png',)
+Detection: 0.5607525706291199, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_567825_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_567825_up.png',)
+Detection: 0.5194911360740662, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_28809_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_28809_up.png',)
+Detection: 0.5192413926124573, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_91779_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_91779_up.png',)
+Detection: 0.5315927267074585, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_423519_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_423519_up.png',)
+Detection: 0.5043514966964722, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_451090_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_451090_up.png',)
+Detection: 0.5954552292823792, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_357941_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_357941_up.png',)
+Detection: 0.5176853537559509, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_288882_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_288882_up.png',)
+Detection: 0.5947039127349854, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_252332_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_252332_up.png',)
+Detection: 0.506413459777832, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_148957_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_148957_up.png',)
+Detection: 0.5090611577033997, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_104198_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_104198_up.png',)
+Detection: 0.5599440336227417, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_109798_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_109798_up.png',)
+Detection: 0.5163776278495789, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_261161_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_261161_up.png',)
+Detection: 0.5310475826263428, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_35963_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_35963_up.png',)
+Detection: 0.5286924839019775, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_172856_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_172856_up.png',)
+Detection: 0.6048521995544434, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_405432_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_405432_up.png',)
+Detection: 0.5306711792945862, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_44699_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_44699_up.png',)
+Detection: 0.5434169173240662, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_139883_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_139883_up.png',)
+Detection: 0.5346919894218445, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_384616_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_384616_up.png',)
+Detection: 0.5594255924224854, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_277051_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_277051_up.png',)
+Detection: 0.5353972911834717, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_85665_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_85665_up.png',)
+Detection: 0.5758394002914429, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_176232_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_176232_up.png',)
+Detection: 0.5408142805099487, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_485424_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_485424_up.png',)
+Detection: 0.534113883972168, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_304984_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_304984_up.png',)
+Detection: 0.5681402683258057, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_369370_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_369370_up.png',)
+Detection: 0.5613685846328735, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_222299_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_222299_up.png',)
+Detection: 0.5296863317489624, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_392228_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_392228_up.png',)
+Detection: 0.5805230736732483, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_15497_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_15497_up.png',)
+Detection: 0.6509848833084106, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_269942_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_269942_up.png',)
+Detection: 0.5984446406364441, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_222094_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_222094_up.png',)
+Detection: 0.6126220226287842, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_104669_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_104669_up.png',)
+Detection: 0.5044984221458435, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_136772_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_136772_up.png',)
+Detection: 0.5149752497673035, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_525322_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_525322_up.png',)
+Detection: 0.5776203274726868, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_550322_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_550322_up.png',)
+Detection: 0.5324668884277344, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_535156_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_535156_up.png',)
+Detection: 0.5415352582931519, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_120853_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_120853_up.png',)
+Detection: 0.5193338394165039, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_134722_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_134722_up.png',)
+Detection: 0.5784650444984436, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_232538_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_232538_up.png',)
+Detection: 0.564552903175354, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_432468_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_432468_up.png',)
+Detection: 0.5261167883872986, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_268375_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_268375_up.png',)
+Detection: 0.5451498031616211, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_276284_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_276284_up.png',)
+Detection: 0.5697183609008789, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_284762_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_284762_up.png',)
+Detection: 0.513004720211029, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_534601_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_534601_up.png',)
+Detection: 0.5030068159103394, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_349152_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_349152_up.png',)
+Detection: 0.5369264483451843, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_70774_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_70774_up.png',)
+Detection: 0.5934141874313354, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_555009_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_555009_up.png',)
+Detection: 0.5158088207244873, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_430286_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_430286_up.png',)
+Detection: 0.5474537014961243, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_452321_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_452321_up.png',)
+Detection: 0.571597695350647, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_348708_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_348708_up.png',)
+Detection: 0.5084987878799438, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_238866_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_238866_up.png',)
+Detection: 0.5408638715744019, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_426253_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_426253_up.png',)
+Detection: 0.5379301905632019, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_229997_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_229997_up.png',)
+Detection: 0.5912930369377136, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_446207_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_446207_up.png',)
+Detection: 0.5229083895683289, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_285_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_285_up.png',)
+Detection: 0.5169512629508972, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_338986_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_338986_up.png',)
+Detection: 0.5666064023971558, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_286849_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_286849_up.png',)
+Detection: 0.5077604651451111, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_530457_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_530457_up.png',)
+Detection: 0.5157490372657776, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_223789_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_223789_up.png',)
+Detection: 0.56378173828125, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_291861_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_291861_up.png',)
+Detection: 0.5140361189842224, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_423971_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_423971_up.png',)
+Detection: 0.5630477070808411, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_562197_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_562197_up.png',)
+Detection: 0.5053085088729858, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_476787_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_476787_up.png',)
+Detection: 0.5633320212364197, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_245915_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_245915_up.png',)
+Detection: 0.5354189872741699, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_434297_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_434297_up.png',)
+Detection: 0.5413467288017273, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_545826_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_545826_up.png',)
+Detection: 0.542108952999115, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_295231_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_295231_up.png',)
+Detection: 0.5280442237854004, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_49269_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_49269_up.png',)
+Detection: 0.5100250244140625, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_50844_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_50844_up.png',)
+Detection: 0.5063027143478394, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_348012_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_348012_up.png',)
+Detection: 0.5165430903434753, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_138856_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_138856_up.png',)
+Detection: 0.5273149609565735, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_351331_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_351331_up.png',)
+Detection: 0.521808385848999, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_209142_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_209142_up.png',)
+Detection: 0.5195395350456238, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_348216_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_348216_up.png',)
+Detection: 0.5545352101325989, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_443303_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_443303_up.png',)
+Detection: 0.5056253671646118, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_312406_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_312406_up.png',)
+Detection: 0.5557205677032471, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_126592_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_126592_up.png',)
+Detection: 0.5733080506324768, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_267940_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_267940_up.png',)
+Detection: 0.5484210848808289, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_274687_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_274687_up.png',)
+Detection: 0.5539446473121643, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_509131_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_509131_up.png',)
+Detection: 0.5440809726715088, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_203580_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_203580_up.png',)
+Detection: 0.6182170510292053, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_88218_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_88218_up.png',)
+Detection: 0.5924104452133179, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_402519_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_402519_up.png',)
+Detection: 0.5373806357383728, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_255912_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_255912_up.png',)
+Detection: 0.5347126722335815, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_107554_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_107554_up.png',)
+Detection: 0.521964430809021, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_196754_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_196754_up.png',)
+Detection: 0.5360912084579468, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_156278_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_156278_up.png',)
+Detection: 0.5908195376396179, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_498286_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_498286_up.png',)
+Detection: 0.5095552206039429, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_154947_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_154947_up.png',)
+Detection: 0.5701347589492798, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_192904_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_192904_up.png',)
+Detection: 0.6159986853599548, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_542625_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_542625_up.png',)
+Detection: 0.5278930068016052, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_531495_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_531495_up.png',)
+Detection: 0.5497933626174927, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_389381_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_389381_up.png',)
+Detection: 0.5191848278045654, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_489046_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_489046_up.png',)
+Detection: 0.5346500277519226, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_8277_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_8277_up.png',)
+Detection: 0.5033726096153259, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_458663_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_458663_up.png',)
+Detection: 0.5691742897033691, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_111179_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_111179_up.png',)
+Detection: 0.5812495350837708, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_488075_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_488075_up.png',)
+Detection: 0.6076645851135254, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_292330_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_292330_up.png',)
+Detection: 0.5280886292457581, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_2149_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_2149_up.png',)
+Detection: 0.5064749121665955, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_546826_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_546826_up.png',)
+Detection: 0.5294962525367737, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_524108_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_524108_up.png',)
+Detection: 0.543102502822876, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_47121_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_47121_up.png',)
+Detection: 0.5245193839073181, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_294855_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_294855_up.png',)
+Detection: 0.5674740672111511, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_364587_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_364587_up.png',)
+Detection: 0.5373088717460632, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416256_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416256_up.png',)
+Detection: 0.56980299949646, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_13597_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_13597_up.png',)
+Detection: 0.5201038122177124, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_475779_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_475779_up.png',)
+Detection: 0.5113078951835632, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_17031_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_17031_up.png',)
+Detection: 0.5353269577026367, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_382088_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_382088_up.png',)
+Detection: 0.5311799049377441, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_186938_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_186938_up.png',)
+Detection: 0.5373298525810242, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_255718_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_255718_up.png',)
+Detection: 0.5226672887802124, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_338191_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_338191_up.png',)
+Detection: 0.6047290563583374, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_406570_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_406570_up.png',)
+Detection: 0.5322573781013489, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_414261_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_414261_up.png',)
+Detection: 0.5373169779777527, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_532575_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_532575_up.png',)
+Detection: 0.512536883354187, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_508482_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_508482_up.png',)
+Detection: 0.5207353234291077, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_537672_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_537672_up.png',)
+Detection: 0.5084677934646606, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_153217_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_153217_up.png',)
+Detection: 0.515405535697937, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_455267_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_455267_up.png',)
+Detection: 0.507114589214325, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_104612_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_104612_up.png',)
+Detection: 0.5051230788230896, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_160666_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_160666_up.png',)
+Detection: 0.5420399308204651, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_242287_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_242287_up.png',)
+Detection: 0.5383108854293823, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_475678_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_475678_up.png',)
+Detection: 0.5366412997245789, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_171050_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_171050_up.png',)
+Detection: 0.5629585385322571, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_310200_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_310200_up.png',)
+Detection: 0.5224238038063049, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_520871_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_520871_up.png',)
+Detection: 0.5249825716018677, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_411665_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_411665_up.png',)
+Detection: 0.5330634713172913, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_96960_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_96960_up.png',)
+Detection: 0.526066243648529, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_504439_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_504439_up.png',)
+Detection: 0.538907527923584, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_110211_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_110211_up.png',)
+Detection: 0.565424382686615, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_231088_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_231088_up.png',)
+Detection: 0.5542163252830505, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_233567_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_233567_up.png',)
+Detection: 0.5470772385597229, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_226130_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_226130_up.png',)
+Detection: 0.5019077658653259, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_180296_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_180296_up.png',)
+Detection: 0.5028552412986755, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_272049_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_272049_up.png',)
+Detection: 0.5253592729568481, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_404568_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_404568_up.png',)
+Detection: 0.5827661752700806, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_577182_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_577182_up.png',)
+Detection: 0.5139639377593994, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_343076_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_343076_up.png',)
+Detection: 0.5087871551513672, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_366199_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_366199_up.png',)
+Detection: 0.5098987221717834, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_26926_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_26926_up.png',)
+Detection: 0.5275824666023254, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_80413_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_80413_up.png',)
+Detection: 0.5594449043273926, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_369771_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_369771_up.png',)
+Detection: 0.5355237126350403, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_311518_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_311518_up.png',)
+Detection: 0.5793858170509338, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_141597_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_141597_up.png',)
+Detection: 0.5800945162773132, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_246308_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_246308_up.png',)
+Detection: 0.5858526825904846, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_499768_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_499768_up.png',)
+Detection: 0.5612571835517883, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_219283_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_219283_up.png',)
+Detection: 0.5838139653205872, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_143998_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_143998_up.png',)
+Detection: 0.5321102738380432, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_512648_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_512648_up.png',)
+Detection: 0.5107507705688477, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_545407_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_545407_up.png',)
+Detection: 0.584647536277771, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_51961_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_51961_up.png',)
+Detection: 0.5106152296066284, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_209972_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_209972_up.png',)
+Detection: 0.5671374201774597, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_570456_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_570456_up.png',)
+Detection: 0.5626182556152344, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_571313_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_571313_up.png',)
+Detection: 0.5307673215866089, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_189436_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_189436_up.png',)
+Detection: 0.5355989336967468, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_248980_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_248980_up.png',)
+Detection: 0.5059606432914734, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_138819_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_138819_up.png',)
+Detection: 0.5523724555969238, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_453722_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_453722_up.png',)
+Detection: 0.5748689770698547, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_148707_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_148707_up.png',)
+Detection: 0.5913907289505005, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_485972_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_485972_up.png',)
+Detection: 0.5427225828170776, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_30213_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_30213_up.png',)
+Detection: 0.5553715229034424, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_478393_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_478393_up.png',)
+Detection: 0.5111322999000549, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_344795_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_344795_up.png',)
+Detection: 0.549751341342926, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_528980_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_528980_up.png',)
+Detection: 0.5394531488418579, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_79034_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_79034_up.png',)
+Detection: 0.545417845249176, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_311909_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_311909_up.png',)
+Detection: 0.5146297216415405, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_318080_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_318080_up.png',)
+Detection: 0.5343286991119385, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_244019_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_244019_up.png',)
+Detection: 0.5721426010131836, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_567898_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_567898_up.png',)
+Detection: 0.5133160948753357, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_470121_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_470121_up.png',)
+Detection: 0.5549073815345764, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_64495_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_64495_up.png',)
+Detection: 0.5796075463294983, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_95899_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_95899_up.png',)
+Detection: 0.5114908218383789, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_521405_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_521405_up.png',)
+Detection: 0.5689041614532471, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_210502_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_210502_up.png',)
+Detection: 0.5180309414863586, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_216636_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_216636_up.png',)
+Detection: 0.504567563533783, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_243344_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_243344_up.png',)
+Detection: 0.538785457611084, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_480842_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_480842_up.png',)
+Detection: 0.5748062133789062, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_320632_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_320632_up.png',)
+Detection: 0.5027294158935547, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_359855_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_359855_up.png',)
+Detection: 0.5297353267669678, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_174231_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_174231_up.png',)
+Detection: 0.5069378018379211, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_172330_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_172330_up.png',)
+Detection: 0.5689318180084229, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_10363_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_10363_up.png',)
+Detection: 0.5355613827705383, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_478286_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_478286_up.png',)
+Detection: 0.5543606281280518, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_580757_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_580757_up.png',)
+Detection: 0.5795788764953613, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_83113_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_83113_up.png',)
+Detection: 0.6253333687782288, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_259625_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_259625_up.png',)
+Detection: 0.5741541385650635, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_532129_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_532129_up.png',)
+Detection: 0.5158509016036987, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_548506_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_548506_up.png',)
+Detection: 0.5202308297157288, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_572956_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_572956_up.png',)
+Detection: 0.5552260875701904, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_328286_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_328286_up.png',)
+Detection: 0.5474779605865479, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_132622_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_132622_up.png',)
+Detection: 0.5021612644195557, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_57027_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_57027_up.png',)
+Detection: 0.5695902705192566, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_369751_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_369751_up.png',)
+Detection: 0.5662016868591309, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_458702_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_458702_up.png',)
+Detection: 0.5601341724395752, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_51309_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_51309_up.png',)
+Detection: 0.5455787777900696, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_31269_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_31269_up.png',)
+Detection: 0.6042646765708923, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_199681_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_199681_up.png',)
+Detection: 0.5651208758354187, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_581781_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_581781_up.png',)
+Detection: 0.5051735639572144, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_293044_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_293044_up.png',)
+Detection: 0.5187467932701111, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_91654_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_91654_up.png',)
+Detection: 0.5012709498405457, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_50331_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_50331_up.png',)
+Detection: 0.5365259051322937, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_534664_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_534664_up.png',)
+Detection: 0.5010470747947693, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_290592_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_290592_up.png',)
+Detection: 0.5305958986282349, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_88265_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_88265_up.png',)
+Detection: 0.5540845990180969, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_183965_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_183965_up.png',)
+Detection: 0.6034439206123352, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_546829_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_546829_up.png',)
+Detection: 0.585200846195221, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416991_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416991_up.png',)
+Detection: 0.5273471474647522, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_393282_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_393282_up.png',)
+Detection: 0.6223361492156982, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_409630_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_409630_up.png',)
+Detection: 0.5585693717002869, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_189451_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_189451_up.png',)
+Detection: 0.5734511017799377, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_213224_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_213224_up.png',)
+Detection: 0.5211369395256042, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_384513_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_384513_up.png',)
+Detection: 0.6190544962882996, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_365766_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_365766_up.png',)
+Detection: 0.5605564117431641, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_324715_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_324715_up.png',)
+Detection: 0.5428857207298279, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_248314_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_248314_up.png',)
+Detection: 0.5559563040733337, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_544811_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_544811_up.png',)
+Detection: 0.5043730735778809, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_105014_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_105014_up.png',)
+Detection: 0.5077499151229858, Label: 1
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_526103_up.png',)
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_526103_up.png',)
+Detection: 0.5487592816352844, Label: 1
+Processing file: ('./CocoGlide/real/dining_table_114871.png',)
+Processing file: ('./CocoGlide/real/dining_table_114871.png',)
+Detection: 0.5620325803756714, Label: 0
+Processing file: ('./CocoGlide/real/teddy_bear_563758.png',)
+Processing file: ('./CocoGlide/real/teddy_bear_563758.png',)
+Detection: 0.5036025643348694, Label: 0
+Processing file: ('./CocoGlide/real/refrigerator_73326.png',)
+Processing file: ('./CocoGlide/real/refrigerator_73326.png',)
+Detection: 0.5223705172538757, Label: 0
+Processing file: ('./CocoGlide/real/cake_493334.png',)
+Processing file: ('./CocoGlide/real/cake_493334.png',)
+Detection: 0.5538541078567505, Label: 0
+Processing file: ('./CocoGlide/real/sheep_364322.png',)
+Processing file: ('./CocoGlide/real/sheep_364322.png',)
+Detection: 0.539871096611023, Label: 0
+Processing file: ('./CocoGlide/real/bus_405205.png',)
+Processing file: ('./CocoGlide/real/bus_405205.png',)
+Detection: 0.5915341377258301, Label: 0
+Processing file: ('./CocoGlide/real/train_66135.png',)
+Processing file: ('./CocoGlide/real/train_66135.png',)
+Detection: 0.5626946687698364, Label: 0
+Processing file: ('./CocoGlide/real/bus_95843.png',)
+Processing file: ('./CocoGlide/real/bus_95843.png',)
+Detection: 0.5700103044509888, Label: 0
+Processing file: ('./CocoGlide/real/clock_164363.png',)
+Processing file: ('./CocoGlide/real/clock_164363.png',)
+Detection: 0.5197371244430542, Label: 0
+Processing file: ('./CocoGlide/real/orange_128598.png',)
+Processing file: ('./CocoGlide/real/orange_128598.png',)
+Detection: 0.5155144333839417, Label: 0
+Processing file: ('./CocoGlide/real/laptop_80949.png',)
+Processing file: ('./CocoGlide/real/laptop_80949.png',)
+Detection: 0.5072301626205444, Label: 0
+Processing file: ('./CocoGlide/real/teddy_bear_409268.png',)
+Processing file: ('./CocoGlide/real/teddy_bear_409268.png',)
+Detection: 0.5158115029335022, Label: 0
+Processing file: ('./CocoGlide/real/cow_402992.png',)
+Processing file: ('./CocoGlide/real/cow_402992.png',)
+Detection: 0.5151313543319702, Label: 0
+Processing file: ('./CocoGlide/real/toaster_66841.png',)
+Processing file: ('./CocoGlide/real/toaster_66841.png',)
+Detection: 0.5555216073989868, Label: 0
+Processing file: ('./CocoGlide/real/train_221213.png',)
+Processing file: ('./CocoGlide/real/train_221213.png',)
+Detection: 0.5784356594085693, Label: 0
+Processing file: ('./CocoGlide/real/toilet_331352.png',)
+Processing file: ('./CocoGlide/real/toilet_331352.png',)
+Detection: 0.5352765321731567, Label: 0
+Processing file: ('./CocoGlide/real/teddy_bear_220310.png',)
+Processing file: ('./CocoGlide/real/teddy_bear_220310.png',)
+Detection: 0.5360931158065796, Label: 0
+Processing file: ('./CocoGlide/real/elephant_270402.png',)
+Processing file: ('./CocoGlide/real/elephant_270402.png',)
+Detection: 0.5865606665611267, Label: 0
+Processing file: ('./CocoGlide/real/tv_66635.png',)
+Processing file: ('./CocoGlide/real/tv_66635.png',)
+Detection: 0.535427987575531, Label: 0
+Processing file: ('./CocoGlide/real/bus_201934.png',)
+Processing file: ('./CocoGlide/real/bus_201934.png',)
+Detection: 0.6421071290969849, Label: 0
+Processing file: ('./CocoGlide/real/parking_meter_53994.png',)
+Processing file: ('./CocoGlide/real/parking_meter_53994.png',)
+Detection: 0.5506431460380554, Label: 0
+Processing file: ('./CocoGlide/real/tv_387098.png',)
+Processing file: ('./CocoGlide/real/tv_387098.png',)
+Detection: 0.575314462184906, Label: 0
+Processing file: ('./CocoGlide/real/dog_355905.png',)
+Processing file: ('./CocoGlide/real/dog_355905.png',)
+Detection: 0.5697236657142639, Label: 0
+Processing file: ('./CocoGlide/real/cow_267434.png',)
+Processing file: ('./CocoGlide/real/cow_267434.png',)
+Detection: 0.5427733063697815, Label: 0
+Processing file: ('./CocoGlide/real/tv_56344.png',)
+Processing file: ('./CocoGlide/real/tv_56344.png',)
+Detection: 0.5501886010169983, Label: 0
+Processing file: ('./CocoGlide/real/banana_346707.png',)
+Processing file: ('./CocoGlide/real/banana_346707.png',)
+Detection: 0.5302541255950928, Label: 0
+Processing file: ('./CocoGlide/real/refrigerator_435880.png',)
+Processing file: ('./CocoGlide/real/refrigerator_435880.png',)
+Detection: 0.5529163479804993, Label: 0
+Processing file: ('./CocoGlide/real/kite_450439.png',)
+Processing file: ('./CocoGlide/real/kite_450439.png',)
+Detection: 0.593600869178772, Label: 0
+Processing file: ('./CocoGlide/real/boat_561335.png',)
+Processing file: ('./CocoGlide/real/boat_561335.png',)
+Detection: 0.5671924948692322, Label: 0
+Processing file: ('./CocoGlide/real/potted_plant_415238.png',)
+Processing file: ('./CocoGlide/real/potted_plant_415238.png',)
+Detection: 0.5743249654769897, Label: 0
+Processing file: ('./CocoGlide/real/apple_562059.png',)
+Processing file: ('./CocoGlide/real/apple_562059.png',)
+Detection: 0.5027865171432495, Label: 0
+Processing file: ('./CocoGlide/real/baseball_glove_27932.png',)
+Processing file: ('./CocoGlide/real/baseball_glove_27932.png',)
+Detection: 0.5363348126411438, Label: 0
+Processing file: ('./CocoGlide/real/pizza_369757.png',)
+Processing file: ('./CocoGlide/real/pizza_369757.png',)
+Detection: 0.5529489517211914, Label: 0
+Processing file: ('./CocoGlide/real/bicycle_224051.png',)
+Processing file: ('./CocoGlide/real/bicycle_224051.png',)
+Detection: 0.5830575227737427, Label: 0
+Processing file: ('./CocoGlide/real/sandwich_173091.png',)
+Processing file: ('./CocoGlide/real/sandwich_173091.png',)
+Detection: 0.5226638913154602, Label: 0
+Processing file: ('./CocoGlide/real/umbrella_121506.png',)
+Processing file: ('./CocoGlide/real/umbrella_121506.png',)
+Detection: 0.5276776552200317, Label: 0
+Processing file: ('./CocoGlide/real/train_184400.png',)
+Processing file: ('./CocoGlide/real/train_184400.png',)
+Detection: 0.5670307874679565, Label: 0
+Processing file: ('./CocoGlide/real/bird_572517.png',)
+Processing file: ('./CocoGlide/real/bird_572517.png',)
+Detection: 0.5324077606201172, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_350388.png',)
+Processing file: ('./CocoGlide/real/broccoli_350388.png',)
+Detection: 0.5039858818054199, Label: 0
+Processing file: ('./CocoGlide/real/sandwich_170595.png',)
+Processing file: ('./CocoGlide/real/sandwich_170595.png',)
+Detection: 0.5235340595245361, Label: 0
+Processing file: ('./CocoGlide/real/knife_2592.png',)
+Processing file: ('./CocoGlide/real/knife_2592.png',)
+Detection: 0.5434558391571045, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_34205.png',)
+Processing file: ('./CocoGlide/real/broccoli_34205.png',)
+Detection: 0.5092392563819885, Label: 0
+Processing file: ('./CocoGlide/real/potted_plant_372260.png',)
+Processing file: ('./CocoGlide/real/potted_plant_372260.png',)
+Detection: 0.5422853231430054, Label: 0
+Processing file: ('./CocoGlide/real/cow_314034.png',)
+Processing file: ('./CocoGlide/real/cow_314034.png',)
+Detection: 0.5845928192138672, Label: 0
+Processing file: ('./CocoGlide/real/sheep_528524.png',)
+Processing file: ('./CocoGlide/real/sheep_528524.png',)
+Detection: 0.5411018133163452, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_549167.png',)
+Processing file: ('./CocoGlide/real/broccoli_549167.png',)
+Detection: 0.5213099718093872, Label: 0
+Processing file: ('./CocoGlide/real/traffic_light_571943.png',)
+Processing file: ('./CocoGlide/real/traffic_light_571943.png',)
+Detection: 0.5051244497299194, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_3501.png',)
+Processing file: ('./CocoGlide/real/broccoli_3501.png',)
+Detection: 0.5325258374214172, Label: 0
+Processing file: ('./CocoGlide/real/vase_159282.png',)
+Processing file: ('./CocoGlide/real/vase_159282.png',)
+Detection: 0.5540750622749329, Label: 0
+Processing file: ('./CocoGlide/real/cell_phone_561366.png',)
+Processing file: ('./CocoGlide/real/cell_phone_561366.png',)
+Detection: 0.5705404281616211, Label: 0
+Processing file: ('./CocoGlide/real/sandwich_191580.png',)
+Processing file: ('./CocoGlide/real/sandwich_191580.png',)
+Detection: 0.5334992408752441, Label: 0
+Processing file: ('./CocoGlide/real/spoon_116362.png',)
+Processing file: ('./CocoGlide/real/spoon_116362.png',)
+Detection: 0.5267395377159119, Label: 0
+Processing file: ('./CocoGlide/real/couch_47769.png',)
+Processing file: ('./CocoGlide/real/couch_47769.png',)
+Detection: 0.5819928646087646, Label: 0
+Processing file: ('./CocoGlide/real/orange_386210.png',)
+Processing file: ('./CocoGlide/real/orange_386210.png',)
+Detection: 0.5639162063598633, Label: 0
+Processing file: ('./CocoGlide/real/umbrella_146363.png',)
+Processing file: ('./CocoGlide/real/umbrella_146363.png',)
+Detection: 0.5241540670394897, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_417876.png',)
+Processing file: ('./CocoGlide/real/giraffe_417876.png',)
+Detection: 0.5492683053016663, Label: 0
+Processing file: ('./CocoGlide/real/skateboard_544052.png',)
+Processing file: ('./CocoGlide/real/skateboard_544052.png',)
+Detection: 0.5306076407432556, Label: 0
+Processing file: ('./CocoGlide/real/umbrella_222991.png',)
+Processing file: ('./CocoGlide/real/umbrella_222991.png',)
+Detection: 0.5551486611366272, Label: 0
+Processing file: ('./CocoGlide/real/tv_72813.png',)
+Processing file: ('./CocoGlide/real/tv_72813.png',)
+Detection: 0.5544147491455078, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_81061.png',)
+Processing file: ('./CocoGlide/real/suitcase_81061.png',)
+Detection: 0.5620921850204468, Label: 0
+Processing file: ('./CocoGlide/real/bicycle_426166.png',)
+Processing file: ('./CocoGlide/real/bicycle_426166.png',)
+Detection: 0.5709109306335449, Label: 0
+Processing file: ('./CocoGlide/real/airplane_567432.png',)
+Processing file: ('./CocoGlide/real/airplane_567432.png',)
+Detection: 0.5979647636413574, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_293474.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_293474.png',)
+Detection: 0.5679751038551331, Label: 0
+Processing file: ('./CocoGlide/real/airplane_44652.png',)
+Processing file: ('./CocoGlide/real/airplane_44652.png',)
+Detection: 0.5971825122833252, Label: 0
+Processing file: ('./CocoGlide/real/airplane_208901.png',)
+Processing file: ('./CocoGlide/real/airplane_208901.png',)
+Detection: 0.5912275314331055, Label: 0
+Processing file: ('./CocoGlide/real/tv_366141.png',)
+Processing file: ('./CocoGlide/real/tv_366141.png',)
+Detection: 0.5751413106918335, Label: 0
+Processing file: ('./CocoGlide/real/bicycle_36844.png',)
+Processing file: ('./CocoGlide/real/bicycle_36844.png',)
+Detection: 0.5600985884666443, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_285788.png',)
+Processing file: ('./CocoGlide/real/giraffe_285788.png',)
+Detection: 0.5605262517929077, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_231822.png',)
+Processing file: ('./CocoGlide/real/broccoli_231822.png',)
+Detection: 0.5251237750053406, Label: 0
+Processing file: ('./CocoGlide/real/hot_dog_452084.png',)
+Processing file: ('./CocoGlide/real/hot_dog_452084.png',)
+Detection: 0.51998370885849, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_217614.png',)
+Processing file: ('./CocoGlide/real/giraffe_217614.png',)
+Detection: 0.5436380505561829, Label: 0
+Processing file: ('./CocoGlide/real/bear_308753.png',)
+Processing file: ('./CocoGlide/real/bear_308753.png',)
+Detection: 0.5331151485443115, Label: 0
+Processing file: ('./CocoGlide/real/elephant_263860.png',)
+Processing file: ('./CocoGlide/real/elephant_263860.png',)
+Detection: 0.5207188129425049, Label: 0
+Processing file: ('./CocoGlide/real/vase_95786.png',)
+Processing file: ('./CocoGlide/real/vase_95786.png',)
+Detection: 0.5075400471687317, Label: 0
+Processing file: ('./CocoGlide/real/sandwich_287959.png',)
+Processing file: ('./CocoGlide/real/sandwich_287959.png',)
+Detection: 0.5017628073692322, Label: 0
+Processing file: ('./CocoGlide/real/elephant_330790.png',)
+Processing file: ('./CocoGlide/real/elephant_330790.png',)
+Detection: 0.5201085209846497, Label: 0
+Processing file: ('./CocoGlide/real/donut_377814.png',)
+Processing file: ('./CocoGlide/real/donut_377814.png',)
+Detection: 0.5045031905174255, Label: 0
+Processing file: ('./CocoGlide/real/donut_451150.png',)
+Processing file: ('./CocoGlide/real/donut_451150.png',)
+Detection: 0.5127231478691101, Label: 0
+Processing file: ('./CocoGlide/real/dog_361571.png',)
+Processing file: ('./CocoGlide/real/dog_361571.png',)
+Detection: 0.5285096168518066, Label: 0
+Processing file: ('./CocoGlide/real/bicycle_101762.png',)
+Processing file: ('./CocoGlide/real/bicycle_101762.png',)
+Detection: 0.5657550692558289, Label: 0
+Processing file: ('./CocoGlide/real/pizza_24144.png',)
+Processing file: ('./CocoGlide/real/pizza_24144.png',)
+Detection: 0.5118687748908997, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_304545.png',)
+Processing file: ('./CocoGlide/real/suitcase_304545.png',)
+Detection: 0.5529300570487976, Label: 0
+Processing file: ('./CocoGlide/real/stop_sign_283038.png',)
+Processing file: ('./CocoGlide/real/stop_sign_283038.png',)
+Detection: 0.542583167552948, Label: 0
+Processing file: ('./CocoGlide/real/dining_table_182417.png',)
+Processing file: ('./CocoGlide/real/dining_table_182417.png',)
+Detection: 0.5383421182632446, Label: 0
+Processing file: ('./CocoGlide/real/train_534639.png',)
+Processing file: ('./CocoGlide/real/train_534639.png',)
+Detection: 0.5485216975212097, Label: 0
+Processing file: ('./CocoGlide/real/pizza_232489.png',)
+Processing file: ('./CocoGlide/real/pizza_232489.png',)
+Detection: 0.5117661952972412, Label: 0
+Processing file: ('./CocoGlide/real/cow_133778.png',)
+Processing file: ('./CocoGlide/real/cow_133778.png',)
+Detection: 0.5598887205123901, Label: 0
+Processing file: ('./CocoGlide/real/refrigerator_168593.png',)
+Processing file: ('./CocoGlide/real/refrigerator_168593.png',)
+Detection: 0.5440467000007629, Label: 0
+Processing file: ('./CocoGlide/real/cat_402473.png',)
+Processing file: ('./CocoGlide/real/cat_402473.png',)
+Detection: 0.5154541730880737, Label: 0
+Processing file: ('./CocoGlide/real/bed_435299.png',)
+Processing file: ('./CocoGlide/real/bed_435299.png',)
+Detection: 0.5729153156280518, Label: 0
+Processing file: ('./CocoGlide/real/zebra_317024.png',)
+Processing file: ('./CocoGlide/real/zebra_317024.png',)
+Detection: 0.5518754720687866, Label: 0
+Processing file: ('./CocoGlide/real/orange_50896.png',)
+Processing file: ('./CocoGlide/real/orange_50896.png',)
+Detection: 0.5091939568519592, Label: 0
+Processing file: ('./CocoGlide/real/bird_147498.png',)
+Processing file: ('./CocoGlide/real/bird_147498.png',)
+Detection: 0.5038905739784241, Label: 0
+Processing file: ('./CocoGlide/real/motorcycle_410878.png',)
+Processing file: ('./CocoGlide/real/motorcycle_410878.png',)
+Detection: 0.5652176737785339, Label: 0
+Processing file: ('./CocoGlide/real/bear_203546.png',)
+Processing file: ('./CocoGlide/real/bear_203546.png',)
+Detection: 0.5169807076454163, Label: 0
+Processing file: ('./CocoGlide/real/zebra_185409.png',)
+Processing file: ('./CocoGlide/real/zebra_185409.png',)
+Detection: 0.5298674702644348, Label: 0
+Processing file: ('./CocoGlide/real/cow_518213.png',)
+Processing file: ('./CocoGlide/real/cow_518213.png',)
+Detection: 0.5086791515350342, Label: 0
+Processing file: ('./CocoGlide/real/hot_dog_293858.png',)
+Processing file: ('./CocoGlide/real/hot_dog_293858.png',)
+Detection: 0.5383835434913635, Label: 0
+Processing file: ('./CocoGlide/real/vase_51326.png',)
+Processing file: ('./CocoGlide/real/vase_51326.png',)
+Detection: 0.5588245391845703, Label: 0
+Processing file: ('./CocoGlide/real/sheep_198960.png',)
+Processing file: ('./CocoGlide/real/sheep_198960.png',)
+Detection: 0.5674943327903748, Label: 0
+Processing file: ('./CocoGlide/real/donut_328117.png',)
+Processing file: ('./CocoGlide/real/donut_328117.png',)
+Detection: 0.5036433339118958, Label: 0
+Processing file: ('./CocoGlide/real/toilet_272416.png',)
+Processing file: ('./CocoGlide/real/toilet_272416.png',)
+Detection: 0.5529946088790894, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_420472.png',)
+Processing file: ('./CocoGlide/real/giraffe_420472.png',)
+Detection: 0.5455150604248047, Label: 0
+Processing file: ('./CocoGlide/real/bear_20247.png',)
+Processing file: ('./CocoGlide/real/bear_20247.png',)
+Detection: 0.5539446473121643, Label: 0
+Processing file: ('./CocoGlide/real/hot_dog_319617.png',)
+Processing file: ('./CocoGlide/real/hot_dog_319617.png',)
+Detection: 0.5471477508544922, Label: 0
+Processing file: ('./CocoGlide/real/elephant_433374.png',)
+Processing file: ('./CocoGlide/real/elephant_433374.png',)
+Detection: 0.5474141836166382, Label: 0
+Processing file: ('./CocoGlide/real/cow_244411.png',)
+Processing file: ('./CocoGlide/real/cow_244411.png',)
+Detection: 0.6227855086326599, Label: 0
+Processing file: ('./CocoGlide/real/fork_75393.png',)
+Processing file: ('./CocoGlide/real/fork_75393.png',)
+Detection: 0.5446178317070007, Label: 0
+Processing file: ('./CocoGlide/real/horse_529105.png',)
+Processing file: ('./CocoGlide/real/horse_529105.png',)
+Detection: 0.5129289627075195, Label: 0
+Processing file: ('./CocoGlide/real/toilet_394328.png',)
+Processing file: ('./CocoGlide/real/toilet_394328.png',)
+Detection: 0.5719285011291504, Label: 0
+Processing file: ('./CocoGlide/real/cake_85195.png',)
+Processing file: ('./CocoGlide/real/cake_85195.png',)
+Detection: 0.5573226809501648, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_356498.png',)
+Processing file: ('./CocoGlide/real/broccoli_356498.png',)
+Detection: 0.5300828814506531, Label: 0
+Processing file: ('./CocoGlide/real/bus_15517.png',)
+Processing file: ('./CocoGlide/real/bus_15517.png',)
+Detection: 0.5593366026878357, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_284296.png',)
+Processing file: ('./CocoGlide/real/giraffe_284296.png',)
+Detection: 0.5651769042015076, Label: 0
+Processing file: ('./CocoGlide/real/wine_glass_533206.png',)
+Processing file: ('./CocoGlide/real/wine_glass_533206.png',)
+Detection: 0.5189285278320312, Label: 0
+Processing file: ('./CocoGlide/real/umbrella_233033.png',)
+Processing file: ('./CocoGlide/real/umbrella_233033.png',)
+Detection: 0.5526583194732666, Label: 0
+Processing file: ('./CocoGlide/real/clock_418961.png',)
+Processing file: ('./CocoGlide/real/clock_418961.png',)
+Detection: 0.5589456558227539, Label: 0
+Processing file: ('./CocoGlide/real/stop_sign_579893.png',)
+Processing file: ('./CocoGlide/real/stop_sign_579893.png',)
+Detection: 0.5330659747123718, Label: 0
+Processing file: ('./CocoGlide/real/airplane_383621.png',)
+Processing file: ('./CocoGlide/real/airplane_383621.png',)
+Detection: 0.5948294401168823, Label: 0
+Processing file: ('./CocoGlide/real/horse_508639.png',)
+Processing file: ('./CocoGlide/real/horse_508639.png',)
+Detection: 0.5248391628265381, Label: 0
+Processing file: ('./CocoGlide/real/laptop_60449.png',)
+Processing file: ('./CocoGlide/real/laptop_60449.png',)
+Detection: 0.580695629119873, Label: 0
+Processing file: ('./CocoGlide/real/bottle_375078.png',)
+Processing file: ('./CocoGlide/real/bottle_375078.png',)
+Detection: 0.5533389449119568, Label: 0
+Processing file: ('./CocoGlide/real/parking_meter_328683.png',)
+Processing file: ('./CocoGlide/real/parking_meter_328683.png',)
+Detection: 0.5711801648139954, Label: 0
+Processing file: ('./CocoGlide/real/parking_meter_36861.png',)
+Processing file: ('./CocoGlide/real/parking_meter_36861.png',)
+Detection: 0.5549247860908508, Label: 0
+Processing file: ('./CocoGlide/real/handbag_23023.png',)
+Processing file: ('./CocoGlide/real/handbag_23023.png',)
+Detection: 0.5887512564659119, Label: 0
+Processing file: ('./CocoGlide/real/zebra_129054.png',)
+Processing file: ('./CocoGlide/real/zebra_129054.png',)
+Detection: 0.5522711873054504, Label: 0
+Processing file: ('./CocoGlide/real/tie_505573.png',)
+Processing file: ('./CocoGlide/real/tie_505573.png',)
+Detection: 0.5752368569374084, Label: 0
+Processing file: ('./CocoGlide/real/sheep_340272.png',)
+Processing file: ('./CocoGlide/real/sheep_340272.png',)
+Detection: 0.5930867195129395, Label: 0
+Processing file: ('./CocoGlide/real/bicycle_196843.png',)
+Processing file: ('./CocoGlide/real/bicycle_196843.png',)
+Detection: 0.5980563163757324, Label: 0
+Processing file: ('./CocoGlide/real/pizza_194746.png',)
+Processing file: ('./CocoGlide/real/pizza_194746.png',)
+Detection: 0.5561106204986572, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_3845.png',)
+Processing file: ('./CocoGlide/real/broccoli_3845.png',)
+Detection: 0.5673130750656128, Label: 0
+Processing file: ('./CocoGlide/real/truck_314914.png',)
+Processing file: ('./CocoGlide/real/truck_314914.png',)
+Detection: 0.5456047058105469, Label: 0
+Processing file: ('./CocoGlide/real/bus_15440.png',)
+Processing file: ('./CocoGlide/real/bus_15440.png',)
+Detection: 0.5492913126945496, Label: 0
+Processing file: ('./CocoGlide/real/surfboard_355677.png',)
+Processing file: ('./CocoGlide/real/surfboard_355677.png',)
+Detection: 0.5752838850021362, Label: 0
+Processing file: ('./CocoGlide/real/traffic_light_526392.png',)
+Processing file: ('./CocoGlide/real/traffic_light_526392.png',)
+Detection: 0.543721079826355, Label: 0
+Processing file: ('./CocoGlide/real/fork_559707.png',)
+Processing file: ('./CocoGlide/real/fork_559707.png',)
+Detection: 0.5178258419036865, Label: 0
+Processing file: ('./CocoGlide/real/knife_153632.png',)
+Processing file: ('./CocoGlide/real/knife_153632.png',)
+Detection: 0.5250803828239441, Label: 0
+Processing file: ('./CocoGlide/real/tie_471869.png',)
+Processing file: ('./CocoGlide/real/tie_471869.png',)
+Detection: 0.50383061170578, Label: 0
+Processing file: ('./CocoGlide/real/cow_416837.png',)
+Processing file: ('./CocoGlide/real/cow_416837.png',)
+Detection: 0.5909005403518677, Label: 0
+Processing file: ('./CocoGlide/real/horse_226883.png',)
+Processing file: ('./CocoGlide/real/horse_226883.png',)
+Detection: 0.5045589804649353, Label: 0
+Processing file: ('./CocoGlide/real/hot_dog_29675.png',)
+Processing file: ('./CocoGlide/real/hot_dog_29675.png',)
+Detection: 0.5431334972381592, Label: 0
+Processing file: ('./CocoGlide/real/motorcycle_456394.png',)
+Processing file: ('./CocoGlide/real/motorcycle_456394.png',)
+Detection: 0.5403414368629456, Label: 0
+Processing file: ('./CocoGlide/real/cat_416330.png',)
+Processing file: ('./CocoGlide/real/cat_416330.png',)
+Detection: 0.511980414390564, Label: 0
+Processing file: ('./CocoGlide/real/zebra_122969.png',)
+Processing file: ('./CocoGlide/real/zebra_122969.png',)
+Detection: 0.5023139119148254, Label: 0
+Processing file: ('./CocoGlide/real/sheep_22589.png',)
+Processing file: ('./CocoGlide/real/sheep_22589.png',)
+Detection: 0.5055413246154785, Label: 0
+Processing file: ('./CocoGlide/real/cow_222863.png',)
+Processing file: ('./CocoGlide/real/cow_222863.png',)
+Detection: 0.5619964599609375, Label: 0
+Processing file: ('./CocoGlide/real/teddy_bear_537802.png',)
+Processing file: ('./CocoGlide/real/teddy_bear_537802.png',)
+Detection: 0.5304331183433533, Label: 0
+Processing file: ('./CocoGlide/real/teddy_bear_370900.png',)
+Processing file: ('./CocoGlide/real/teddy_bear_370900.png',)
+Detection: 0.5027248859405518, Label: 0
+Processing file: ('./CocoGlide/real/train_129135.png',)
+Processing file: ('./CocoGlide/real/train_129135.png',)
+Detection: 0.5785260200500488, Label: 0
+Processing file: ('./CocoGlide/real/train_416269.png',)
+Processing file: ('./CocoGlide/real/train_416269.png',)
+Detection: 0.5698445439338684, Label: 0
+Processing file: ('./CocoGlide/real/zebra_25139.png',)
+Processing file: ('./CocoGlide/real/zebra_25139.png',)
+Detection: 0.5030128955841064, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_486046.png',)
+Processing file: ('./CocoGlide/real/giraffe_486046.png',)
+Detection: 0.5347097516059875, Label: 0
+Processing file: ('./CocoGlide/real/donut_322211.png',)
+Processing file: ('./CocoGlide/real/donut_322211.png',)
+Detection: 0.5291798114776611, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_84650.png',)
+Processing file: ('./CocoGlide/real/suitcase_84650.png',)
+Detection: 0.5593542456626892, Label: 0
+Processing file: ('./CocoGlide/real/horse_380203.png',)
+Processing file: ('./CocoGlide/real/horse_380203.png',)
+Detection: 0.5455318093299866, Label: 0
+Processing file: ('./CocoGlide/real/pizza_451693.png',)
+Processing file: ('./CocoGlide/real/pizza_451693.png',)
+Detection: 0.519833505153656, Label: 0
+Processing file: ('./CocoGlide/real/truck_196759.png',)
+Processing file: ('./CocoGlide/real/truck_196759.png',)
+Detection: 0.6336075067520142, Label: 0
+Processing file: ('./CocoGlide/real/microwave_269866.png',)
+Processing file: ('./CocoGlide/real/microwave_269866.png',)
+Detection: 0.5813582539558411, Label: 0
+Processing file: ('./CocoGlide/real/hot_dog_283113.png',)
+Processing file: ('./CocoGlide/real/hot_dog_283113.png',)
+Detection: 0.5056586265563965, Label: 0
+Processing file: ('./CocoGlide/real/truck_76417.png',)
+Processing file: ('./CocoGlide/real/truck_76417.png',)
+Detection: 0.5895453095436096, Label: 0
+Processing file: ('./CocoGlide/real/hot_dog_438226.png',)
+Processing file: ('./CocoGlide/real/hot_dog_438226.png',)
+Detection: 0.5359528064727783, Label: 0
+Processing file: ('./CocoGlide/real/airplane_139871.png',)
+Processing file: ('./CocoGlide/real/airplane_139871.png',)
+Detection: 0.5851280093193054, Label: 0
+Processing file: ('./CocoGlide/real/stop_sign_214200.png',)
+Processing file: ('./CocoGlide/real/stop_sign_214200.png',)
+Detection: 0.5753838419914246, Label: 0
+Processing file: ('./CocoGlide/real/vase_521282.png',)
+Processing file: ('./CocoGlide/real/vase_521282.png',)
+Detection: 0.5518507361412048, Label: 0
+Processing file: ('./CocoGlide/real/cell_phone_228981.png',)
+Processing file: ('./CocoGlide/real/cell_phone_228981.png',)
+Detection: 0.552249550819397, Label: 0
+Processing file: ('./CocoGlide/real/microwave_577584.png',)
+Processing file: ('./CocoGlide/real/microwave_577584.png',)
+Detection: 0.5620437264442444, Label: 0
+Processing file: ('./CocoGlide/real/keyboard_1675.png',)
+Processing file: ('./CocoGlide/real/keyboard_1675.png',)
+Detection: 0.5247102975845337, Label: 0
+Processing file: ('./CocoGlide/real/cell_phone_288391.png',)
+Processing file: ('./CocoGlide/real/cell_phone_288391.png',)
+Detection: 0.5327436923980713, Label: 0
+Processing file: ('./CocoGlide/real/snowboard_304817.png',)
+Processing file: ('./CocoGlide/real/snowboard_304817.png',)
+Detection: 0.5487990975379944, Label: 0
+Processing file: ('./CocoGlide/real/toilet_431140.png',)
+Processing file: ('./CocoGlide/real/toilet_431140.png',)
+Detection: 0.5700476169586182, Label: 0
+Processing file: ('./CocoGlide/real/airplane_553094.png',)
+Processing file: ('./CocoGlide/real/airplane_553094.png',)
+Detection: 0.5305313467979431, Label: 0
+Processing file: ('./CocoGlide/real/orange_189078.png',)
+Processing file: ('./CocoGlide/real/orange_189078.png',)
+Detection: 0.5251479148864746, Label: 0
+Processing file: ('./CocoGlide/real/airplane_323709.png',)
+Processing file: ('./CocoGlide/real/airplane_323709.png',)
+Detection: 0.5566545128822327, Label: 0
+Processing file: ('./CocoGlide/real/wine_glass_146489.png',)
+Processing file: ('./CocoGlide/real/wine_glass_146489.png',)
+Detection: 0.5830036997795105, Label: 0
+Processing file: ('./CocoGlide/real/refrigerator_194724.png',)
+Processing file: ('./CocoGlide/real/refrigerator_194724.png',)
+Detection: 0.5465824604034424, Label: 0
+Processing file: ('./CocoGlide/real/toilet_59920.png',)
+Processing file: ('./CocoGlide/real/toilet_59920.png',)
+Detection: 0.520149290561676, Label: 0
+Processing file: ('./CocoGlide/real/hot_dog_393014.png',)
+Processing file: ('./CocoGlide/real/hot_dog_393014.png',)
+Detection: 0.5458428859710693, Label: 0
+Processing file: ('./CocoGlide/real/motorcycle_48924.png',)
+Processing file: ('./CocoGlide/real/motorcycle_48924.png',)
+Detection: 0.5326460599899292, Label: 0
+Processing file: ('./CocoGlide/real/toilet_147518.png',)
+Processing file: ('./CocoGlide/real/toilet_147518.png',)
+Detection: 0.5516490340232849, Label: 0
+Processing file: ('./CocoGlide/real/boat_133233.png',)
+Processing file: ('./CocoGlide/real/boat_133233.png',)
+Detection: 0.5430904030799866, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_516871.png',)
+Processing file: ('./CocoGlide/real/broccoli_516871.png',)
+Detection: 0.5113710761070251, Label: 0
+Processing file: ('./CocoGlide/real/banana_575500.png',)
+Processing file: ('./CocoGlide/real/banana_575500.png',)
+Detection: 0.5598528385162354, Label: 0
+Processing file: ('./CocoGlide/real/boat_228436.png',)
+Processing file: ('./CocoGlide/real/boat_228436.png',)
+Detection: 0.5745877623558044, Label: 0
+Processing file: ('./CocoGlide/real/kite_85911.png',)
+Processing file: ('./CocoGlide/real/kite_85911.png',)
+Detection: 0.5621415376663208, Label: 0
+Processing file: ('./CocoGlide/real/zebra_20059.png',)
+Processing file: ('./CocoGlide/real/zebra_20059.png',)
+Detection: 0.6088048219680786, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_370478.png',)
+Processing file: ('./CocoGlide/real/suitcase_370478.png',)
+Detection: 0.5508367419242859, Label: 0
+Processing file: ('./CocoGlide/real/surfboard_164115.png',)
+Processing file: ('./CocoGlide/real/surfboard_164115.png',)
+Detection: 0.5689142346382141, Label: 0
+Processing file: ('./CocoGlide/real/boat_491725.png',)
+Processing file: ('./CocoGlide/real/boat_491725.png',)
+Detection: 0.5807957649230957, Label: 0
+Processing file: ('./CocoGlide/real/vase_69795.png',)
+Processing file: ('./CocoGlide/real/vase_69795.png',)
+Detection: 0.580558180809021, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_390301.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_390301.png',)
+Detection: 0.5424284934997559, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_138550.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_138550.png',)
+Detection: 0.6126160025596619, Label: 0
+Processing file: ('./CocoGlide/real/banana_78959.png',)
+Processing file: ('./CocoGlide/real/banana_78959.png',)
+Detection: 0.5640538930892944, Label: 0
+Processing file: ('./CocoGlide/real/horse_269932.png',)
+Processing file: ('./CocoGlide/real/horse_269932.png',)
+Detection: 0.5576491951942444, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_460379.png',)
+Processing file: ('./CocoGlide/real/giraffe_460379.png',)
+Detection: 0.5582396984100342, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_211069.png',)
+Processing file: ('./CocoGlide/real/giraffe_211069.png',)
+Detection: 0.5567036867141724, Label: 0
+Processing file: ('./CocoGlide/real/sheep_552612.png',)
+Processing file: ('./CocoGlide/real/sheep_552612.png',)
+Detection: 0.5337698459625244, Label: 0
+Processing file: ('./CocoGlide/real/toilet_85576.png',)
+Processing file: ('./CocoGlide/real/toilet_85576.png',)
+Detection: 0.6122827529907227, Label: 0
+Processing file: ('./CocoGlide/real/microwave_313130.png',)
+Processing file: ('./CocoGlide/real/microwave_313130.png',)
+Detection: 0.5698512196540833, Label: 0
+Processing file: ('./CocoGlide/real/toilet_32285.png',)
+Processing file: ('./CocoGlide/real/toilet_32285.png',)
+Detection: 0.5463581085205078, Label: 0
+Processing file: ('./CocoGlide/real/horse_17178.png',)
+Processing file: ('./CocoGlide/real/horse_17178.png',)
+Detection: 0.5673006772994995, Label: 0
+Processing file: ('./CocoGlide/real/frisbee_221693.png',)
+Processing file: ('./CocoGlide/real/frisbee_221693.png',)
+Detection: 0.5091773271560669, Label: 0
+Processing file: ('./CocoGlide/real/spoon_465430.png',)
+Processing file: ('./CocoGlide/real/spoon_465430.png',)
+Detection: 0.5222315788269043, Label: 0
+Processing file: ('./CocoGlide/real/dining_table_340175.png',)
+Processing file: ('./CocoGlide/real/dining_table_340175.png',)
+Detection: 0.5922227501869202, Label: 0
+Processing file: ('./CocoGlide/real/fork_210030.png',)
+Processing file: ('./CocoGlide/real/fork_210030.png',)
+Detection: 0.546942949295044, Label: 0
+Processing file: ('./CocoGlide/real/mouse_68765.png',)
+Processing file: ('./CocoGlide/real/mouse_68765.png',)
+Detection: 0.5447090864181519, Label: 0
+Processing file: ('./CocoGlide/real/donut_25986.png',)
+Processing file: ('./CocoGlide/real/donut_25986.png',)
+Detection: 0.5265018343925476, Label: 0
+Processing file: ('./CocoGlide/real/spoon_335427.png',)
+Processing file: ('./CocoGlide/real/spoon_335427.png',)
+Detection: 0.5116733908653259, Label: 0
+Processing file: ('./CocoGlide/real/cow_347664.png',)
+Processing file: ('./CocoGlide/real/cow_347664.png',)
+Detection: 0.5464174747467041, Label: 0
+Processing file: ('./CocoGlide/real/dog_392818.png',)
+Processing file: ('./CocoGlide/real/dog_392818.png',)
+Detection: 0.5524278879165649, Label: 0
+Processing file: ('./CocoGlide/real/oven_283717.png',)
+Processing file: ('./CocoGlide/real/oven_283717.png',)
+Detection: 0.5173689723014832, Label: 0
+Processing file: ('./CocoGlide/real/banana_407574.png',)
+Processing file: ('./CocoGlide/real/banana_407574.png',)
+Detection: 0.5313078165054321, Label: 0
+Processing file: ('./CocoGlide/real/zebra_290833.png',)
+Processing file: ('./CocoGlide/real/zebra_290833.png',)
+Detection: 0.529703676700592, Label: 0
+Processing file: ('./CocoGlide/real/dining_table_100582.png',)
+Processing file: ('./CocoGlide/real/dining_table_100582.png',)
+Detection: 0.5124553442001343, Label: 0
+Processing file: ('./CocoGlide/real/potted_plant_279145.png',)
+Processing file: ('./CocoGlide/real/potted_plant_279145.png',)
+Detection: 0.5178698897361755, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_579091.png',)
+Processing file: ('./CocoGlide/real/broccoli_579091.png',)
+Detection: 0.5391533374786377, Label: 0
+Processing file: ('./CocoGlide/real/truck_474164.png',)
+Processing file: ('./CocoGlide/real/truck_474164.png',)
+Detection: 0.5615715980529785, Label: 0
+Processing file: ('./CocoGlide/real/cat_63552.png',)
+Processing file: ('./CocoGlide/real/cat_63552.png',)
+Detection: 0.5154241919517517, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_125952.png',)
+Processing file: ('./CocoGlide/real/suitcase_125952.png',)
+Detection: 0.577660322189331, Label: 0
+Processing file: ('./CocoGlide/real/pizza_43581.png',)
+Processing file: ('./CocoGlide/real/pizza_43581.png',)
+Detection: 0.53861403465271, Label: 0
+Processing file: ('./CocoGlide/real/elephant_110638.png',)
+Processing file: ('./CocoGlide/real/elephant_110638.png',)
+Detection: 0.5545257925987244, Label: 0
+Processing file: ('./CocoGlide/real/chair_540928.png',)
+Processing file: ('./CocoGlide/real/chair_540928.png',)
+Detection: 0.5366393327713013, Label: 0
+Processing file: ('./CocoGlide/real/motorcycle_279887.png',)
+Processing file: ('./CocoGlide/real/motorcycle_279887.png',)
+Detection: 0.5305557250976562, Label: 0
+Processing file: ('./CocoGlide/real/banana_161820.png',)
+Processing file: ('./CocoGlide/real/banana_161820.png',)
+Detection: 0.5191640853881836, Label: 0
+Processing file: ('./CocoGlide/real/pizza_337498.png',)
+Processing file: ('./CocoGlide/real/pizza_337498.png',)
+Detection: 0.5372759699821472, Label: 0
+Processing file: ('./CocoGlide/real/teddy_bear_125062.png',)
+Processing file: ('./CocoGlide/real/teddy_bear_125062.png',)
+Detection: 0.5366033911705017, Label: 0
+Processing file: ('./CocoGlide/real/cake_485130.png',)
+Processing file: ('./CocoGlide/real/cake_485130.png',)
+Detection: 0.5337387323379517, Label: 0
+Processing file: ('./CocoGlide/real/elephant_493284.png',)
+Processing file: ('./CocoGlide/real/elephant_493284.png',)
+Detection: 0.5034835338592529, Label: 0
+Processing file: ('./CocoGlide/real/baseball_bat_57232.png',)
+Processing file: ('./CocoGlide/real/baseball_bat_57232.png',)
+Detection: 0.540795624256134, Label: 0
+Processing file: ('./CocoGlide/real/oven_393838.png',)
+Processing file: ('./CocoGlide/real/oven_393838.png',)
+Detection: 0.5097458958625793, Label: 0
+Processing file: ('./CocoGlide/real/truck_523782.png',)
+Processing file: ('./CocoGlide/real/truck_523782.png',)
+Detection: 0.5891270041465759, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_453860.png',)
+Processing file: ('./CocoGlide/real/suitcase_453860.png',)
+Detection: 0.5590492486953735, Label: 0
+Processing file: ('./CocoGlide/real/parking_meter_333956.png',)
+Processing file: ('./CocoGlide/real/parking_meter_333956.png',)
+Detection: 0.5455360412597656, Label: 0
+Processing file: ('./CocoGlide/real/horse_335450.png',)
+Processing file: ('./CocoGlide/real/horse_335450.png',)
+Detection: 0.5358495712280273, Label: 0
+Processing file: ('./CocoGlide/real/orange_231527.png',)
+Processing file: ('./CocoGlide/real/orange_231527.png',)
+Detection: 0.5421943068504333, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_134689.png',)
+Processing file: ('./CocoGlide/real/giraffe_134689.png',)
+Detection: 0.5591821670532227, Label: 0
+Processing file: ('./CocoGlide/real/boat_543300.png',)
+Processing file: ('./CocoGlide/real/boat_543300.png',)
+Detection: 0.53545081615448, Label: 0
+Processing file: ('./CocoGlide/real/backpack_32610.png',)
+Processing file: ('./CocoGlide/real/backpack_32610.png',)
+Detection: 0.5379268527030945, Label: 0
+Processing file: ('./CocoGlide/real/tv_368684.png',)
+Processing file: ('./CocoGlide/real/tv_368684.png',)
+Detection: 0.54410320520401, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_132116.png',)
+Processing file: ('./CocoGlide/real/broccoli_132116.png',)
+Detection: 0.5299931168556213, Label: 0
+Processing file: ('./CocoGlide/real/cell_phone_180798.png',)
+Processing file: ('./CocoGlide/real/cell_phone_180798.png',)
+Detection: 0.5089967846870422, Label: 0
+Processing file: ('./CocoGlide/real/pizza_402433.png',)
+Processing file: ('./CocoGlide/real/pizza_402433.png',)
+Detection: 0.5180182456970215, Label: 0
+Processing file: ('./CocoGlide/real/wine_glass_416885.png',)
+Processing file: ('./CocoGlide/real/wine_glass_416885.png',)
+Detection: 0.5596452355384827, Label: 0
+Processing file: ('./CocoGlide/real/spoon_129113.png',)
+Processing file: ('./CocoGlide/real/spoon_129113.png',)
+Detection: 0.5324645638465881, Label: 0
+Processing file: ('./CocoGlide/real/parking_meter_430871.png',)
+Processing file: ('./CocoGlide/real/parking_meter_430871.png',)
+Detection: 0.511091411113739, Label: 0
+Processing file: ('./CocoGlide/real/sandwich_322574.png',)
+Processing file: ('./CocoGlide/real/sandwich_322574.png',)
+Detection: 0.5302854776382446, Label: 0
+Processing file: ('./CocoGlide/real/tie_131938.png',)
+Processing file: ('./CocoGlide/real/tie_131938.png',)
+Detection: 0.530750572681427, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_377575.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_377575.png',)
+Detection: 0.5381540656089783, Label: 0
+Processing file: ('./CocoGlide/real/boat_133645.png',)
+Processing file: ('./CocoGlide/real/boat_133645.png',)
+Detection: 0.5750974416732788, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_293071.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_293071.png',)
+Detection: 0.6045759916305542, Label: 0
+Processing file: ('./CocoGlide/real/apple_424721.png',)
+Processing file: ('./CocoGlide/real/apple_424721.png',)
+Detection: 0.5556983947753906, Label: 0
+Processing file: ('./CocoGlide/real/clock_344614.png',)
+Processing file: ('./CocoGlide/real/clock_344614.png',)
+Detection: 0.5380712747573853, Label: 0
+Processing file: ('./CocoGlide/real/toothbrush_365385.png',)
+Processing file: ('./CocoGlide/real/toothbrush_365385.png',)
+Detection: 0.5370626449584961, Label: 0
+Processing file: ('./CocoGlide/real/surfboard_377882.png',)
+Processing file: ('./CocoGlide/real/surfboard_377882.png',)
+Detection: 0.5543318390846252, Label: 0
+Processing file: ('./CocoGlide/real/car_225532.png',)
+Processing file: ('./CocoGlide/real/car_225532.png',)
+Detection: 0.5553568005561829, Label: 0
+Processing file: ('./CocoGlide/real/microwave_127182.png',)
+Processing file: ('./CocoGlide/real/microwave_127182.png',)
+Detection: 0.5799170732498169, Label: 0
+Processing file: ('./CocoGlide/real/laptop_433192.png',)
+Processing file: ('./CocoGlide/real/laptop_433192.png',)
+Detection: 0.5193769931793213, Label: 0
+Processing file: ('./CocoGlide/real/orange_318114.png',)
+Processing file: ('./CocoGlide/real/orange_318114.png',)
+Detection: 0.5503196120262146, Label: 0
+Processing file: ('./CocoGlide/real/elephant_474170.png',)
+Processing file: ('./CocoGlide/real/elephant_474170.png',)
+Detection: 0.5588263273239136, Label: 0
+Processing file: ('./CocoGlide/real/clock_267351.png',)
+Processing file: ('./CocoGlide/real/clock_267351.png',)
+Detection: 0.5704394578933716, Label: 0
+Processing file: ('./CocoGlide/real/toothbrush_241319.png',)
+Processing file: ('./CocoGlide/real/toothbrush_241319.png',)
+Detection: 0.5878081917762756, Label: 0
+Processing file: ('./CocoGlide/real/sheep_225184.png',)
+Processing file: ('./CocoGlide/real/sheep_225184.png',)
+Detection: 0.5548511147499084, Label: 0
+Processing file: ('./CocoGlide/real/bear_194216.png',)
+Processing file: ('./CocoGlide/real/bear_194216.png',)
+Detection: 0.5883916616439819, Label: 0
+Processing file: ('./CocoGlide/real/laptop_11813.png',)
+Processing file: ('./CocoGlide/real/laptop_11813.png',)
+Detection: 0.5172544717788696, Label: 0
+Processing file: ('./CocoGlide/real/surfboard_92177.png',)
+Processing file: ('./CocoGlide/real/surfboard_92177.png',)
+Detection: 0.5412091612815857, Label: 0
+Processing file: ('./CocoGlide/real/elephant_556765.png',)
+Processing file: ('./CocoGlide/real/elephant_556765.png',)
+Detection: 0.5502745509147644, Label: 0
+Processing file: ('./CocoGlide/real/tv_98839.png',)
+Processing file: ('./CocoGlide/real/tv_98839.png',)
+Detection: 0.5409374237060547, Label: 0
+Processing file: ('./CocoGlide/real/skateboard_300842.png',)
+Processing file: ('./CocoGlide/real/skateboard_300842.png',)
+Detection: 0.5795447826385498, Label: 0
+Processing file: ('./CocoGlide/real/toaster_232348.png',)
+Processing file: ('./CocoGlide/real/toaster_232348.png',)
+Detection: 0.5468531847000122, Label: 0
+Processing file: ('./CocoGlide/real/chair_428280.png',)
+Processing file: ('./CocoGlide/real/chair_428280.png',)
+Detection: 0.5421020984649658, Label: 0
+Processing file: ('./CocoGlide/real/dog_486479.png',)
+Processing file: ('./CocoGlide/real/dog_486479.png',)
+Detection: 0.5379346013069153, Label: 0
+Processing file: ('./CocoGlide/real/motorcycle_408830.png',)
+Processing file: ('./CocoGlide/real/motorcycle_408830.png',)
+Detection: 0.5216431617736816, Label: 0
+Processing file: ('./CocoGlide/real/toilet_61471.png',)
+Processing file: ('./CocoGlide/real/toilet_61471.png',)
+Detection: 0.5573840737342834, Label: 0
+Processing file: ('./CocoGlide/real/cow_14888.png',)
+Processing file: ('./CocoGlide/real/cow_14888.png',)
+Detection: 0.5135481953620911, Label: 0
+Processing file: ('./CocoGlide/real/tv_77396.png',)
+Processing file: ('./CocoGlide/real/tv_77396.png',)
+Detection: 0.573901891708374, Label: 0
+Processing file: ('./CocoGlide/real/elephant_166563.png',)
+Processing file: ('./CocoGlide/real/elephant_166563.png',)
+Detection: 0.587295413017273, Label: 0
+Processing file: ('./CocoGlide/real/bed_39956.png',)
+Processing file: ('./CocoGlide/real/bed_39956.png',)
+Detection: 0.5401751399040222, Label: 0
+Processing file: ('./CocoGlide/real/refrigerator_446522.png',)
+Processing file: ('./CocoGlide/real/refrigerator_446522.png',)
+Detection: 0.5434709191322327, Label: 0
+Processing file: ('./CocoGlide/real/scissors_357501.png',)
+Processing file: ('./CocoGlide/real/scissors_357501.png',)
+Detection: 0.5608536601066589, Label: 0
+Processing file: ('./CocoGlide/real/umbrella_341058.png',)
+Processing file: ('./CocoGlide/real/umbrella_341058.png',)
+Detection: 0.5527951717376709, Label: 0
+Processing file: ('./CocoGlide/real/carrot_157390.png',)
+Processing file: ('./CocoGlide/real/carrot_157390.png',)
+Detection: 0.5144934058189392, Label: 0
+Processing file: ('./CocoGlide/real/remote_99428.png',)
+Processing file: ('./CocoGlide/real/remote_99428.png',)
+Detection: 0.5511443018913269, Label: 0
+Processing file: ('./CocoGlide/real/hot_dog_251119.png',)
+Processing file: ('./CocoGlide/real/hot_dog_251119.png',)
+Detection: 0.5392624139785767, Label: 0
+Processing file: ('./CocoGlide/real/toilet_245764.png',)
+Processing file: ('./CocoGlide/real/toilet_245764.png',)
+Detection: 0.5553377270698547, Label: 0
+Processing file: ('./CocoGlide/real/bed_384651.png',)
+Processing file: ('./CocoGlide/real/bed_384651.png',)
+Detection: 0.5142936110496521, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_296969.png',)
+Processing file: ('./CocoGlide/real/giraffe_296969.png',)
+Detection: 0.5464777946472168, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_389315.png',)
+Processing file: ('./CocoGlide/real/suitcase_389315.png',)
+Detection: 0.5149235725402832, Label: 0
+Processing file: ('./CocoGlide/real/carrot_530052.png',)
+Processing file: ('./CocoGlide/real/carrot_530052.png',)
+Detection: 0.5162280201911926, Label: 0
+Processing file: ('./CocoGlide/real/sheep_269196.png',)
+Processing file: ('./CocoGlide/real/sheep_269196.png',)
+Detection: 0.5059245228767395, Label: 0
+Processing file: ('./CocoGlide/real/stop_sign_79408.png',)
+Processing file: ('./CocoGlide/real/stop_sign_79408.png',)
+Detection: 0.5262029767036438, Label: 0
+Processing file: ('./CocoGlide/real/umbrella_540280.png',)
+Processing file: ('./CocoGlide/real/umbrella_540280.png',)
+Detection: 0.5354723930358887, Label: 0
+Processing file: ('./CocoGlide/real/boat_156372.png',)
+Processing file: ('./CocoGlide/real/boat_156372.png',)
+Detection: 0.5676220655441284, Label: 0
+Processing file: ('./CocoGlide/real/elephant_167128.png',)
+Processing file: ('./CocoGlide/real/elephant_167128.png',)
+Detection: 0.5450623631477356, Label: 0
+Processing file: ('./CocoGlide/real/airplane_452122.png',)
+Processing file: ('./CocoGlide/real/airplane_452122.png',)
+Detection: 0.5719225406646729, Label: 0
+Processing file: ('./CocoGlide/real/tv_131131.png',)
+Processing file: ('./CocoGlide/real/tv_131131.png',)
+Detection: 0.524751603603363, Label: 0
+Processing file: ('./CocoGlide/real/clock_140929.png',)
+Processing file: ('./CocoGlide/real/clock_140929.png',)
+Detection: 0.5590333938598633, Label: 0
+Processing file: ('./CocoGlide/real/wine_glass_567825.png',)
+Processing file: ('./CocoGlide/real/wine_glass_567825.png',)
+Detection: 0.5405837297439575, Label: 0
+Processing file: ('./CocoGlide/real/banana_28809.png',)
+Processing file: ('./CocoGlide/real/banana_28809.png',)
+Detection: 0.5241178870201111, Label: 0
+Processing file: ('./CocoGlide/real/sandwich_91779.png',)
+Processing file: ('./CocoGlide/real/sandwich_91779.png',)
+Detection: 0.5289542078971863, Label: 0
+Processing file: ('./CocoGlide/real/bus_423519.png',)
+Processing file: ('./CocoGlide/real/bus_423519.png',)
+Detection: 0.5469666719436646, Label: 0
+Processing file: ('./CocoGlide/real/boat_451090.png',)
+Processing file: ('./CocoGlide/real/boat_451090.png',)
+Detection: 0.6131614446640015, Label: 0
+Processing file: ('./CocoGlide/real/tv_357941.png',)
+Processing file: ('./CocoGlide/real/tv_357941.png',)
+Detection: 0.5587369799613953, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_288882.png',)
+Processing file: ('./CocoGlide/real/giraffe_288882.png',)
+Detection: 0.5176883935928345, Label: 0
+Processing file: ('./CocoGlide/real/stop_sign_252332.png',)
+Processing file: ('./CocoGlide/real/stop_sign_252332.png',)
+Detection: 0.5508036613464355, Label: 0
+Processing file: ('./CocoGlide/real/donut_148957.png',)
+Processing file: ('./CocoGlide/real/donut_148957.png',)
+Detection: 0.5043647885322571, Label: 0
+Processing file: ('./CocoGlide/real/stop_sign_104198.png',)
+Processing file: ('./CocoGlide/real/stop_sign_104198.png',)
+Detection: 0.5437179207801819, Label: 0
+Processing file: ('./CocoGlide/real/donut_109798.png',)
+Processing file: ('./CocoGlide/real/donut_109798.png',)
+Detection: 0.5452799201011658, Label: 0
+Processing file: ('./CocoGlide/real/dog_261161.png',)
+Processing file: ('./CocoGlide/real/dog_261161.png',)
+Detection: 0.5333545804023743, Label: 0
+Processing file: ('./CocoGlide/real/teddy_bear_35963.png',)
+Processing file: ('./CocoGlide/real/teddy_bear_35963.png',)
+Detection: 0.5181799530982971, Label: 0
+Processing file: ('./CocoGlide/real/stop_sign_172856.png',)
+Processing file: ('./CocoGlide/real/stop_sign_172856.png',)
+Detection: 0.6023250222206116, Label: 0
+Processing file: ('./CocoGlide/real/donut_405432.png',)
+Processing file: ('./CocoGlide/real/donut_405432.png',)
+Detection: 0.5276448726654053, Label: 0
+Processing file: ('./CocoGlide/real/sheep_44699.png',)
+Processing file: ('./CocoGlide/real/sheep_44699.png',)
+Detection: 0.5402008295059204, Label: 0
+Processing file: ('./CocoGlide/real/frisbee_139883.png',)
+Processing file: ('./CocoGlide/real/frisbee_139883.png',)
+Detection: 0.5475534200668335, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_384616.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_384616.png',)
+Detection: 0.5653133988380432, Label: 0
+Processing file: ('./CocoGlide/real/knife_277051.png',)
+Processing file: ('./CocoGlide/real/knife_277051.png',)
+Detection: 0.5276646018028259, Label: 0
+Processing file: ('./CocoGlide/real/kite_85665.png',)
+Processing file: ('./CocoGlide/real/kite_85665.png',)
+Detection: 0.5772130489349365, Label: 0
+Processing file: ('./CocoGlide/real/vase_176232.png',)
+Processing file: ('./CocoGlide/real/vase_176232.png',)
+Detection: 0.55219566822052, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_485424.png',)
+Processing file: ('./CocoGlide/real/suitcase_485424.png',)
+Detection: 0.5343971252441406, Label: 0
+Processing file: ('./CocoGlide/real/wine_glass_304984.png',)
+Processing file: ('./CocoGlide/real/wine_glass_304984.png',)
+Detection: 0.5584307312965393, Label: 0
+Processing file: ('./CocoGlide/real/orange_369370.png',)
+Processing file: ('./CocoGlide/real/orange_369370.png',)
+Detection: 0.5255929231643677, Label: 0
+Processing file: ('./CocoGlide/real/laptop_222299.png',)
+Processing file: ('./CocoGlide/real/laptop_222299.png',)
+Detection: 0.5386977791786194, Label: 0
+Processing file: ('./CocoGlide/real/clock_392228.png',)
+Processing file: ('./CocoGlide/real/clock_392228.png',)
+Detection: 0.5748977661132812, Label: 0
+Processing file: ('./CocoGlide/real/mouse_15497.png',)
+Processing file: ('./CocoGlide/real/mouse_15497.png',)
+Detection: 0.5355856418609619, Label: 0
+Processing file: ('./CocoGlide/real/traffic_light_269942.png',)
+Processing file: ('./CocoGlide/real/traffic_light_269942.png',)
+Detection: 0.5936724543571472, Label: 0
+Processing file: ('./CocoGlide/real/stop_sign_222094.png',)
+Processing file: ('./CocoGlide/real/stop_sign_222094.png',)
+Detection: 0.6075045466423035, Label: 0
+Processing file: ('./CocoGlide/real/orange_104669.png',)
+Processing file: ('./CocoGlide/real/orange_104669.png',)
+Detection: 0.5046781897544861, Label: 0
+Processing file: ('./CocoGlide/real/orange_136772.png',)
+Processing file: ('./CocoGlide/real/orange_136772.png',)
+Detection: 0.5498408079147339, Label: 0
+Processing file: ('./CocoGlide/real/airplane_525322.png',)
+Processing file: ('./CocoGlide/real/airplane_525322.png',)
+Detection: 0.5799611806869507, Label: 0
+Processing file: ('./CocoGlide/real/scissors_550322.png',)
+Processing file: ('./CocoGlide/real/scissors_550322.png',)
+Detection: 0.5346519351005554, Label: 0
+Processing file: ('./CocoGlide/real/elephant_535156.png',)
+Processing file: ('./CocoGlide/real/elephant_535156.png',)
+Detection: 0.5464451313018799, Label: 0
+Processing file: ('./CocoGlide/real/sandwich_120853.png',)
+Processing file: ('./CocoGlide/real/sandwich_120853.png',)
+Detection: 0.5045034885406494, Label: 0
+Processing file: ('./CocoGlide/real/train_134722.png',)
+Processing file: ('./CocoGlide/real/train_134722.png',)
+Detection: 0.5941768884658813, Label: 0
+Processing file: ('./CocoGlide/real/train_232538.png',)
+Processing file: ('./CocoGlide/real/train_232538.png',)
+Detection: 0.6056423187255859, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_432468.png',)
+Processing file: ('./CocoGlide/real/suitcase_432468.png',)
+Detection: 0.5192896127700806, Label: 0
+Processing file: ('./CocoGlide/real/elephant_268375.png',)
+Processing file: ('./CocoGlide/real/elephant_268375.png',)
+Detection: 0.540547788143158, Label: 0
+Processing file: ('./CocoGlide/real/motorcycle_276284.png',)
+Processing file: ('./CocoGlide/real/motorcycle_276284.png',)
+Detection: 0.5847194790840149, Label: 0
+Processing file: ('./CocoGlide/real/traffic_light_284762.png',)
+Processing file: ('./CocoGlide/real/traffic_light_284762.png',)
+Detection: 0.561762273311615, Label: 0
+Processing file: ('./CocoGlide/real/teddy_bear_534601.png',)
+Processing file: ('./CocoGlide/real/teddy_bear_534601.png',)
+Detection: 0.5297023057937622, Label: 0
+Processing file: ('./CocoGlide/real/donut_349152.png',)
+Processing file: ('./CocoGlide/real/donut_349152.png',)
+Detection: 0.5588557720184326, Label: 0
+Processing file: ('./CocoGlide/real/motorcycle_70774.png',)
+Processing file: ('./CocoGlide/real/motorcycle_70774.png',)
+Detection: 0.6314926147460938, Label: 0
+Processing file: ('./CocoGlide/real/tv_555009.png',)
+Processing file: ('./CocoGlide/real/tv_555009.png',)
+Detection: 0.5430463552474976, Label: 0
+Processing file: ('./CocoGlide/real/remote_430286.png',)
+Processing file: ('./CocoGlide/real/remote_430286.png',)
+Detection: 0.5513604283332825, Label: 0
+Processing file: ('./CocoGlide/real/bus_452321.png',)
+Processing file: ('./CocoGlide/real/bus_452321.png',)
+Detection: 0.5913348197937012, Label: 0
+Processing file: ('./CocoGlide/real/banana_348708.png',)
+Processing file: ('./CocoGlide/real/banana_348708.png',)
+Detection: 0.5149240493774414, Label: 0
+Processing file: ('./CocoGlide/real/donut_238866.png',)
+Processing file: ('./CocoGlide/real/donut_238866.png',)
+Detection: 0.5473679900169373, Label: 0
+Processing file: ('./CocoGlide/real/microwave_426253.png',)
+Processing file: ('./CocoGlide/real/microwave_426253.png',)
+Detection: 0.5308756828308105, Label: 0
+Processing file: ('./CocoGlide/real/bird_229997.png',)
+Processing file: ('./CocoGlide/real/bird_229997.png',)
+Detection: 0.5506013631820679, Label: 0
+Processing file: ('./CocoGlide/real/cell_phone_446207.png',)
+Processing file: ('./CocoGlide/real/cell_phone_446207.png',)
+Detection: 0.5299210548400879, Label: 0
+Processing file: ('./CocoGlide/real/bear_285.png',)
+Processing file: ('./CocoGlide/real/bear_285.png',)
+Detection: 0.5612031817436218, Label: 0
+Processing file: ('./CocoGlide/real/train_338986.png',)
+Processing file: ('./CocoGlide/real/train_338986.png',)
+Detection: 0.5600351691246033, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_286849.png',)
+Processing file: ('./CocoGlide/real/giraffe_286849.png',)
+Detection: 0.5238974690437317, Label: 0
+Processing file: ('./CocoGlide/real/vase_530457.png',)
+Processing file: ('./CocoGlide/real/vase_530457.png',)
+Detection: 0.5480194687843323, Label: 0
+Processing file: ('./CocoGlide/real/sink_223789.png',)
+Processing file: ('./CocoGlide/real/sink_223789.png',)
+Detection: 0.531284749507904, Label: 0
+Processing file: ('./CocoGlide/real/zebra_291861.png',)
+Processing file: ('./CocoGlide/real/zebra_291861.png',)
+Detection: 0.5624224543571472, Label: 0
+Processing file: ('./CocoGlide/real/toilet_423971.png',)
+Processing file: ('./CocoGlide/real/toilet_423971.png',)
+Detection: 0.5746405720710754, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_562197.png',)
+Processing file: ('./CocoGlide/real/broccoli_562197.png',)
+Detection: 0.5199409127235413, Label: 0
+Processing file: ('./CocoGlide/real/pizza_476787.png',)
+Processing file: ('./CocoGlide/real/pizza_476787.png',)
+Detection: 0.5512130260467529, Label: 0
+Processing file: ('./CocoGlide/real/elephant_245915.png',)
+Processing file: ('./CocoGlide/real/elephant_245915.png',)
+Detection: 0.5534723997116089, Label: 0
+Processing file: ('./CocoGlide/real/sandwich_434297.png',)
+Processing file: ('./CocoGlide/real/sandwich_434297.png',)
+Detection: 0.5610690712928772, Label: 0
+Processing file: ('./CocoGlide/real/cat_545826.png',)
+Processing file: ('./CocoGlide/real/cat_545826.png',)
+Detection: 0.5276054739952087, Label: 0
+Processing file: ('./CocoGlide/real/sheep_295231.png',)
+Processing file: ('./CocoGlide/real/sheep_295231.png',)
+Detection: 0.5151011347770691, Label: 0
+Processing file: ('./CocoGlide/real/horse_49269.png',)
+Processing file: ('./CocoGlide/real/horse_49269.png',)
+Detection: 0.5485320687294006, Label: 0
+Processing file: ('./CocoGlide/real/teddy_bear_50844.png',)
+Processing file: ('./CocoGlide/real/teddy_bear_50844.png',)
+Detection: 0.521709144115448, Label: 0
+Processing file: ('./CocoGlide/real/scissors_348012.png',)
+Processing file: ('./CocoGlide/real/scissors_348012.png',)
+Detection: 0.504940927028656, Label: 0
+Processing file: ('./CocoGlide/real/oven_138856.png',)
+Processing file: ('./CocoGlide/real/oven_138856.png',)
+Detection: 0.5333471298217773, Label: 0
+Processing file: ('./CocoGlide/real/pizza_351331.png',)
+Processing file: ('./CocoGlide/real/pizza_351331.png',)
+Detection: 0.523574948310852, Label: 0
+Processing file: ('./CocoGlide/real/bowl_209142.png',)
+Processing file: ('./CocoGlide/real/bowl_209142.png',)
+Detection: 0.5040680766105652, Label: 0
+Processing file: ('./CocoGlide/real/toilet_348216.png',)
+Processing file: ('./CocoGlide/real/toilet_348216.png',)
+Detection: 0.582442045211792, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_443303.png',)
+Processing file: ('./CocoGlide/real/suitcase_443303.png',)
+Detection: 0.5395060777664185, Label: 0
+Processing file: ('./CocoGlide/real/banana_312406.png',)
+Processing file: ('./CocoGlide/real/banana_312406.png',)
+Detection: 0.5314306020736694, Label: 0
+Processing file: ('./CocoGlide/real/stop_sign_126592.png',)
+Processing file: ('./CocoGlide/real/stop_sign_126592.png',)
+Detection: 0.5877741575241089, Label: 0
+Processing file: ('./CocoGlide/real/boat_267940.png',)
+Processing file: ('./CocoGlide/real/boat_267940.png',)
+Detection: 0.5472155809402466, Label: 0
+Processing file: ('./CocoGlide/real/chair_274687.png',)
+Processing file: ('./CocoGlide/real/chair_274687.png',)
+Detection: 0.5650607347488403, Label: 0
+Processing file: ('./CocoGlide/real/orange_509131.png',)
+Processing file: ('./CocoGlide/real/orange_509131.png',)
+Detection: 0.5369855761528015, Label: 0
+Processing file: ('./CocoGlide/real/umbrella_203580.png',)
+Processing file: ('./CocoGlide/real/umbrella_203580.png',)
+Detection: 0.585073709487915, Label: 0
+Processing file: ('./CocoGlide/real/traffic_light_88218.png',)
+Processing file: ('./CocoGlide/real/traffic_light_88218.png',)
+Detection: 0.600449800491333, Label: 0
+Processing file: ('./CocoGlide/real/bird_402519.png',)
+Processing file: ('./CocoGlide/real/bird_402519.png',)
+Detection: 0.5222119092941284, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_255912.png',)
+Processing file: ('./CocoGlide/real/broccoli_255912.png',)
+Detection: 0.5281850099563599, Label: 0
+Processing file: ('./CocoGlide/real/surfboard_107554.png',)
+Processing file: ('./CocoGlide/real/surfboard_107554.png',)
+Detection: 0.5310605764389038, Label: 0
+Processing file: ('./CocoGlide/real/stop_sign_196754.png',)
+Processing file: ('./CocoGlide/real/stop_sign_196754.png',)
+Detection: 0.5506570935249329, Label: 0
+Processing file: ('./CocoGlide/real/refrigerator_156278.png',)
+Processing file: ('./CocoGlide/real/refrigerator_156278.png',)
+Detection: 0.5900764465332031, Label: 0
+Processing file: ('./CocoGlide/real/truck_498286.png',)
+Processing file: ('./CocoGlide/real/truck_498286.png',)
+Detection: 0.5142003297805786, Label: 0
+Processing file: ('./CocoGlide/real/sheep_154947.png',)
+Processing file: ('./CocoGlide/real/sheep_154947.png',)
+Detection: 0.5674360990524292, Label: 0
+Processing file: ('./CocoGlide/real/donut_192904.png',)
+Processing file: ('./CocoGlide/real/donut_192904.png',)
+Detection: 0.5409979820251465, Label: 0
+Processing file: ('./CocoGlide/real/parking_meter_542625.png',)
+Processing file: ('./CocoGlide/real/parking_meter_542625.png',)
+Detection: 0.5920601487159729, Label: 0
+Processing file: ('./CocoGlide/real/boat_531495.png',)
+Processing file: ('./CocoGlide/real/boat_531495.png',)
+Detection: 0.5461181998252869, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_389381.png',)
+Processing file: ('./CocoGlide/real/broccoli_389381.png',)
+Detection: 0.5116369724273682, Label: 0
+Processing file: ('./CocoGlide/real/bird_489046.png',)
+Processing file: ('./CocoGlide/real/bird_489046.png',)
+Detection: 0.5340542793273926, Label: 0
+Processing file: ('./CocoGlide/real/fork_8277.png',)
+Processing file: ('./CocoGlide/real/fork_8277.png',)
+Detection: 0.544669508934021, Label: 0
+Processing file: ('./CocoGlide/real/umbrella_458663.png',)
+Processing file: ('./CocoGlide/real/umbrella_458663.png',)
+Detection: 0.5691576600074768, Label: 0
+Processing file: ('./CocoGlide/real/clock_111179.png',)
+Processing file: ('./CocoGlide/real/clock_111179.png',)
+Detection: 0.5638707280158997, Label: 0
+Processing file: ('./CocoGlide/real/refrigerator_488075.png',)
+Processing file: ('./CocoGlide/real/refrigerator_488075.png',)
+Detection: 0.61383455991745, Label: 0
+Processing file: ('./CocoGlide/real/baseball_bat_292330.png',)
+Processing file: ('./CocoGlide/real/baseball_bat_292330.png',)
+Detection: 0.5364250540733337, Label: 0
+Processing file: ('./CocoGlide/real/bowl_2149.png',)
+Processing file: ('./CocoGlide/real/bowl_2149.png',)
+Detection: 0.5339246988296509, Label: 0
+Processing file: ('./CocoGlide/real/scissors_546826.png',)
+Processing file: ('./CocoGlide/real/scissors_546826.png',)
+Detection: 0.5291207432746887, Label: 0
+Processing file: ('./CocoGlide/real/motorcycle_524108.png',)
+Processing file: ('./CocoGlide/real/motorcycle_524108.png',)
+Detection: 0.5915120840072632, Label: 0
+Processing file: ('./CocoGlide/real/sink_47121.png',)
+Processing file: ('./CocoGlide/real/sink_47121.png',)
+Detection: 0.5733254551887512, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_294855.png',)
+Processing file: ('./CocoGlide/real/suitcase_294855.png',)
+Detection: 0.586358368396759, Label: 0
+Processing file: ('./CocoGlide/real/train_364587.png',)
+Processing file: ('./CocoGlide/real/train_364587.png',)
+Detection: 0.5831518769264221, Label: 0
+Processing file: ('./CocoGlide/real/keyboard_416256.png',)
+Processing file: ('./CocoGlide/real/keyboard_416256.png',)
+Detection: 0.5557119250297546, Label: 0
+Processing file: ('./CocoGlide/real/cake_13597.png',)
+Processing file: ('./CocoGlide/real/cake_13597.png',)
+Detection: 0.524766206741333, Label: 0
+Processing file: ('./CocoGlide/real/elephant_475779.png',)
+Processing file: ('./CocoGlide/real/elephant_475779.png',)
+Detection: 0.5581149458885193, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_17031.png',)
+Processing file: ('./CocoGlide/real/giraffe_17031.png',)
+Detection: 0.5375934839248657, Label: 0
+Processing file: ('./CocoGlide/real/horse_382088.png',)
+Processing file: ('./CocoGlide/real/horse_382088.png',)
+Detection: 0.5510476231575012, Label: 0
+Processing file: ('./CocoGlide/real/bird_186938.png',)
+Processing file: ('./CocoGlide/real/bird_186938.png',)
+Detection: 0.5521529316902161, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_255718.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_255718.png',)
+Detection: 0.5296690464019775, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_338191.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_338191.png',)
+Detection: 0.5333927869796753, Label: 0
+Processing file: ('./CocoGlide/real/orange_406570.png',)
+Processing file: ('./CocoGlide/real/orange_406570.png',)
+Detection: 0.5326805710792542, Label: 0
+Processing file: ('./CocoGlide/real/bear_414261.png',)
+Processing file: ('./CocoGlide/real/bear_414261.png',)
+Detection: 0.5293940901756287, Label: 0
+Processing file: ('./CocoGlide/real/dog_532575.png',)
+Processing file: ('./CocoGlide/real/dog_532575.png',)
+Detection: 0.5430756211280823, Label: 0
+Processing file: ('./CocoGlide/real/train_508482.png',)
+Processing file: ('./CocoGlide/real/train_508482.png',)
+Detection: 0.576259970664978, Label: 0
+Processing file: ('./CocoGlide/real/refrigerator_537672.png',)
+Processing file: ('./CocoGlide/real/refrigerator_537672.png',)
+Detection: 0.5675268769264221, Label: 0
+Processing file: ('./CocoGlide/real/motorcycle_153217.png',)
+Processing file: ('./CocoGlide/real/motorcycle_153217.png',)
+Detection: 0.5531001091003418, Label: 0
+Processing file: ('./CocoGlide/real/oven_455267.png',)
+Processing file: ('./CocoGlide/real/oven_455267.png',)
+Detection: 0.5194544196128845, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_104612.png',)
+Processing file: ('./CocoGlide/real/broccoli_104612.png',)
+Detection: 0.5115188360214233, Label: 0
+Processing file: ('./CocoGlide/real/toothbrush_160666.png',)
+Processing file: ('./CocoGlide/real/toothbrush_160666.png',)
+Detection: 0.5226564407348633, Label: 0
+Processing file: ('./CocoGlide/real/bicycle_242287.png',)
+Processing file: ('./CocoGlide/real/bicycle_242287.png',)
+Detection: 0.5404051542282104, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_475678.png',)
+Processing file: ('./CocoGlide/real/suitcase_475678.png',)
+Detection: 0.5394472479820251, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_171050.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_171050.png',)
+Detection: 0.5905178785324097, Label: 0
+Processing file: ('./CocoGlide/real/donut_310200.png',)
+Processing file: ('./CocoGlide/real/donut_310200.png',)
+Detection: 0.5070493817329407, Label: 0
+Processing file: ('./CocoGlide/real/pizza_520871.png',)
+Processing file: ('./CocoGlide/real/pizza_520871.png',)
+Detection: 0.5202240943908691, Label: 0
+Processing file: ('./CocoGlide/real/cat_411665.png',)
+Processing file: ('./CocoGlide/real/cat_411665.png',)
+Detection: 0.5651485323905945, Label: 0
+Processing file: ('./CocoGlide/real/bear_96960.png',)
+Processing file: ('./CocoGlide/real/bear_96960.png',)
+Detection: 0.5241186618804932, Label: 0
+Processing file: ('./CocoGlide/real/zebra_504439.png',)
+Processing file: ('./CocoGlide/real/zebra_504439.png',)
+Detection: 0.5764952898025513, Label: 0
+Processing file: ('./CocoGlide/real/zebra_110211.png',)
+Processing file: ('./CocoGlide/real/zebra_110211.png',)
+Detection: 0.5519940853118896, Label: 0
+Processing file: ('./CocoGlide/real/umbrella_231088.png',)
+Processing file: ('./CocoGlide/real/umbrella_231088.png',)
+Detection: 0.5962581634521484, Label: 0
+Processing file: ('./CocoGlide/real/cow_233567.png',)
+Processing file: ('./CocoGlide/real/cow_233567.png',)
+Detection: 0.5654364824295044, Label: 0
+Processing file: ('./CocoGlide/real/hot_dog_226130.png',)
+Processing file: ('./CocoGlide/real/hot_dog_226130.png',)
+Detection: 0.5319277048110962, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_180296.png',)
+Processing file: ('./CocoGlide/real/suitcase_180296.png',)
+Detection: 0.5283125638961792, Label: 0
+Processing file: ('./CocoGlide/real/truck_272049.png',)
+Processing file: ('./CocoGlide/real/truck_272049.png',)
+Detection: 0.5617973804473877, Label: 0
+Processing file: ('./CocoGlide/real/bird_404568.png',)
+Processing file: ('./CocoGlide/real/bird_404568.png',)
+Detection: 0.5561520457267761, Label: 0
+Processing file: ('./CocoGlide/real/bench_577182.png',)
+Processing file: ('./CocoGlide/real/bench_577182.png',)
+Detection: 0.5134056806564331, Label: 0
+Processing file: ('./CocoGlide/real/laptop_343076.png',)
+Processing file: ('./CocoGlide/real/laptop_343076.png',)
+Detection: 0.5101315975189209, Label: 0
+Processing file: ('./CocoGlide/real/bed_366199.png',)
+Processing file: ('./CocoGlide/real/bed_366199.png',)
+Detection: 0.5228478908538818, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_26926.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_26926.png',)
+Detection: 0.5544833540916443, Label: 0
+Processing file: ('./CocoGlide/real/teddy_bear_80413.png',)
+Processing file: ('./CocoGlide/real/teddy_bear_80413.png',)
+Detection: 0.5419767498970032, Label: 0
+Processing file: ('./CocoGlide/real/sandwich_369771.png',)
+Processing file: ('./CocoGlide/real/sandwich_369771.png',)
+Detection: 0.5363012552261353, Label: 0
+Processing file: ('./CocoGlide/real/boat_311518.png',)
+Processing file: ('./CocoGlide/real/boat_311518.png',)
+Detection: 0.5496847629547119, Label: 0
+Processing file: ('./CocoGlide/real/car_141597.png',)
+Processing file: ('./CocoGlide/real/car_141597.png',)
+Detection: 0.5715370178222656, Label: 0
+Processing file: ('./CocoGlide/real/tv_246308.png',)
+Processing file: ('./CocoGlide/real/tv_246308.png',)
+Detection: 0.5863119959831238, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_499768.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_499768.png',)
+Detection: 0.5687547922134399, Label: 0
+Processing file: ('./CocoGlide/real/teddy_bear_219283.png',)
+Processing file: ('./CocoGlide/real/teddy_bear_219283.png',)
+Detection: 0.5672686696052551, Label: 0
+Processing file: ('./CocoGlide/real/knife_143998.png',)
+Processing file: ('./CocoGlide/real/knife_143998.png',)
+Detection: 0.5190405249595642, Label: 0
+Processing file: ('./CocoGlide/real/cow_512648.png',)
+Processing file: ('./CocoGlide/real/cow_512648.png',)
+Detection: 0.5100786089897156, Label: 0
+Processing file: ('./CocoGlide/real/airplane_545407.png',)
+Processing file: ('./CocoGlide/real/airplane_545407.png',)
+Detection: 0.5813024044036865, Label: 0
+Processing file: ('./CocoGlide/real/parking_meter_51961.png',)
+Processing file: ('./CocoGlide/real/parking_meter_51961.png',)
+Detection: 0.547459065914154, Label: 0
+Processing file: ('./CocoGlide/real/boat_209972.png',)
+Processing file: ('./CocoGlide/real/boat_209972.png',)
+Detection: 0.5711221694946289, Label: 0
+Processing file: ('./CocoGlide/real/couch_570456.png',)
+Processing file: ('./CocoGlide/real/couch_570456.png',)
+Detection: 0.554945707321167, Label: 0
+Processing file: ('./CocoGlide/real/microwave_571313.png',)
+Processing file: ('./CocoGlide/real/microwave_571313.png',)
+Detection: 0.5711618065834045, Label: 0
+Processing file: ('./CocoGlide/real/tie_189436.png',)
+Processing file: ('./CocoGlide/real/tie_189436.png',)
+Detection: 0.5178824067115784, Label: 0
+Processing file: ('./CocoGlide/real/orange_248980.png',)
+Processing file: ('./CocoGlide/real/orange_248980.png',)
+Detection: 0.5048027038574219, Label: 0
+Processing file: ('./CocoGlide/real/toilet_138819.png',)
+Processing file: ('./CocoGlide/real/toilet_138819.png',)
+Detection: 0.5479412078857422, Label: 0
+Processing file: ('./CocoGlide/real/tv_453722.png',)
+Processing file: ('./CocoGlide/real/tv_453722.png',)
+Detection: 0.5655696392059326, Label: 0
+Processing file: ('./CocoGlide/real/orange_148707.png',)
+Processing file: ('./CocoGlide/real/orange_148707.png',)
+Detection: 0.5307479500770569, Label: 0
+Processing file: ('./CocoGlide/real/fork_485972.png',)
+Processing file: ('./CocoGlide/real/fork_485972.png',)
+Detection: 0.5450344085693359, Label: 0
+Processing file: ('./CocoGlide/real/sink_30213.png',)
+Processing file: ('./CocoGlide/real/sink_30213.png',)
+Detection: 0.5575414896011353, Label: 0
+Processing file: ('./CocoGlide/real/teddy_bear_478393.png',)
+Processing file: ('./CocoGlide/real/teddy_bear_478393.png',)
+Detection: 0.5134201049804688, Label: 0
+Processing file: ('./CocoGlide/real/cake_344795.png',)
+Processing file: ('./CocoGlide/real/cake_344795.png',)
+Detection: 0.5191883444786072, Label: 0
+Processing file: ('./CocoGlide/real/umbrella_528980.png',)
+Processing file: ('./CocoGlide/real/umbrella_528980.png',)
+Detection: 0.5352446436882019, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_79034.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_79034.png',)
+Detection: 0.5672605633735657, Label: 0
+Processing file: ('./CocoGlide/real/bus_311909.png',)
+Processing file: ('./CocoGlide/real/bus_311909.png',)
+Detection: 0.6094036102294922, Label: 0
+Processing file: ('./CocoGlide/real/bear_318080.png',)
+Processing file: ('./CocoGlide/real/bear_318080.png',)
+Detection: 0.5461187958717346, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_244019.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_244019.png',)
+Detection: 0.5572898983955383, Label: 0
+Processing file: ('./CocoGlide/real/orange_567898.png',)
+Processing file: ('./CocoGlide/real/orange_567898.png',)
+Detection: 0.5146897435188293, Label: 0
+Processing file: ('./CocoGlide/real/cake_470121.png',)
+Processing file: ('./CocoGlide/real/cake_470121.png',)
+Detection: 0.5694755911827087, Label: 0
+Processing file: ('./CocoGlide/real/parking_meter_64495.png',)
+Processing file: ('./CocoGlide/real/parking_meter_64495.png',)
+Detection: 0.5648438334465027, Label: 0
+Processing file: ('./CocoGlide/real/stop_sign_95899.png',)
+Processing file: ('./CocoGlide/real/stop_sign_95899.png',)
+Detection: 0.5123531818389893, Label: 0
+Processing file: ('./CocoGlide/real/toothbrush_521405.png',)
+Processing file: ('./CocoGlide/real/toothbrush_521405.png',)
+Detection: 0.5456393361091614, Label: 0
+Processing file: ('./CocoGlide/real/train_210502.png',)
+Processing file: ('./CocoGlide/real/train_210502.png',)
+Detection: 0.5726149678230286, Label: 0
+Processing file: ('./CocoGlide/real/cake_216636.png',)
+Processing file: ('./CocoGlide/real/cake_216636.png',)
+Detection: 0.5110432505607605, Label: 0
+Processing file: ('./CocoGlide/real/refrigerator_243344.png',)
+Processing file: ('./CocoGlide/real/refrigerator_243344.png',)
+Detection: 0.5502710342407227, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_480842.png',)
+Processing file: ('./CocoGlide/real/giraffe_480842.png',)
+Detection: 0.5235979557037354, Label: 0
+Processing file: ('./CocoGlide/real/zebra_320632.png',)
+Processing file: ('./CocoGlide/real/zebra_320632.png',)
+Detection: 0.5204946398735046, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_359855.png',)
+Processing file: ('./CocoGlide/real/suitcase_359855.png',)
+Detection: 0.5470810532569885, Label: 0
+Processing file: ('./CocoGlide/real/chair_174231.png',)
+Processing file: ('./CocoGlide/real/chair_174231.png',)
+Detection: 0.5447441339492798, Label: 0
+Processing file: ('./CocoGlide/real/car_172330.png',)
+Processing file: ('./CocoGlide/real/car_172330.png',)
+Detection: 0.5678136348724365, Label: 0
+Processing file: ('./CocoGlide/real/car_10363.png',)
+Processing file: ('./CocoGlide/real/car_10363.png',)
+Detection: 0.5634111166000366, Label: 0
+Processing file: ('./CocoGlide/real/train_478286.png',)
+Processing file: ('./CocoGlide/real/train_478286.png',)
+Detection: 0.5775161981582642, Label: 0
+Processing file: ('./CocoGlide/real/fire_hydrant_580757.png',)
+Processing file: ('./CocoGlide/real/fire_hydrant_580757.png',)
+Detection: 0.5898317098617554, Label: 0
+Processing file: ('./CocoGlide/real/elephant_83113.png',)
+Processing file: ('./CocoGlide/real/elephant_83113.png',)
+Detection: 0.5635035037994385, Label: 0
+Processing file: ('./CocoGlide/real/elephant_259625.png',)
+Processing file: ('./CocoGlide/real/elephant_259625.png',)
+Detection: 0.532401442527771, Label: 0
+Processing file: ('./CocoGlide/real/pizza_532129.png',)
+Processing file: ('./CocoGlide/real/pizza_532129.png',)
+Detection: 0.5050492882728577, Label: 0
+Processing file: ('./CocoGlide/real/banana_548506.png',)
+Processing file: ('./CocoGlide/real/banana_548506.png',)
+Detection: 0.5217873454093933, Label: 0
+Processing file: ('./CocoGlide/real/motorcycle_572956.png',)
+Processing file: ('./CocoGlide/real/motorcycle_572956.png',)
+Detection: 0.5625569224357605, Label: 0
+Processing file: ('./CocoGlide/real/boat_328286.png',)
+Processing file: ('./CocoGlide/real/boat_328286.png',)
+Detection: 0.551523745059967, Label: 0
+Processing file: ('./CocoGlide/real/bear_132622.png',)
+Processing file: ('./CocoGlide/real/bear_132622.png',)
+Detection: 0.577078640460968, Label: 0
+Processing file: ('./CocoGlide/real/elephant_57027.png',)
+Processing file: ('./CocoGlide/real/elephant_57027.png',)
+Detection: 0.563703179359436, Label: 0
+Processing file: ('./CocoGlide/real/parking_meter_369751.png',)
+Processing file: ('./CocoGlide/real/parking_meter_369751.png',)
+Detection: 0.588107705116272, Label: 0
+Processing file: ('./CocoGlide/real/parking_meter_458702.png',)
+Processing file: ('./CocoGlide/real/parking_meter_458702.png',)
+Detection: 0.5468449592590332, Label: 0
+Processing file: ('./CocoGlide/real/horse_51309.png',)
+Processing file: ('./CocoGlide/real/horse_51309.png',)
+Detection: 0.5511789917945862, Label: 0
+Processing file: ('./CocoGlide/real/zebra_31269.png',)
+Processing file: ('./CocoGlide/real/zebra_31269.png',)
+Detection: 0.5548663139343262, Label: 0
+Processing file: ('./CocoGlide/real/teddy_bear_199681.png',)
+Processing file: ('./CocoGlide/real/teddy_bear_199681.png',)
+Detection: 0.5188544392585754, Label: 0
+Processing file: ('./CocoGlide/real/banana_581781.png',)
+Processing file: ('./CocoGlide/real/banana_581781.png',)
+Detection: 0.5319843888282776, Label: 0
+Processing file: ('./CocoGlide/real/sandwich_293044.png',)
+Processing file: ('./CocoGlide/real/sandwich_293044.png',)
+Detection: 0.5021363496780396, Label: 0
+Processing file: ('./CocoGlide/real/spoon_91654.png',)
+Processing file: ('./CocoGlide/real/spoon_91654.png',)
+Detection: 0.5011236071586609, Label: 0
+Processing file: ('./CocoGlide/real/broccoli_50331.png',)
+Processing file: ('./CocoGlide/real/broccoli_50331.png',)
+Detection: 0.5345857739448547, Label: 0
+Processing file: ('./CocoGlide/real/suitcase_534664.png',)
+Processing file: ('./CocoGlide/real/suitcase_534664.png',)
+Detection: 0.5025875568389893, Label: 0
+Processing file: ('./CocoGlide/real/sheep_290592.png',)
+Processing file: ('./CocoGlide/real/sheep_290592.png',)
+Detection: 0.5521895289421082, Label: 0
+Processing file: ('./CocoGlide/real/horse_88265.png',)
+Processing file: ('./CocoGlide/real/horse_88265.png',)
+Detection: 0.551457941532135, Label: 0
+Processing file: ('./CocoGlide/real/sandwich_183965.png',)
+Processing file: ('./CocoGlide/real/sandwich_183965.png',)
+Detection: 0.5545293092727661, Label: 0
+Processing file: ('./CocoGlide/real/dog_546829.png',)
+Processing file: ('./CocoGlide/real/dog_546829.png',)
+Detection: 0.5454130172729492, Label: 0
+Processing file: ('./CocoGlide/real/umbrella_416991.png',)
+Processing file: ('./CocoGlide/real/umbrella_416991.png',)
+Detection: 0.5236272215843201, Label: 0
+Processing file: ('./CocoGlide/real/giraffe_393282.png',)
+Processing file: ('./CocoGlide/real/giraffe_393282.png',)
+Detection: 0.6385372281074524, Label: 0
+Processing file: ('./CocoGlide/real/mouse_409630.png',)
+Processing file: ('./CocoGlide/real/mouse_409630.png',)
+Detection: 0.5692458152770996, Label: 0
+Processing file: ('./CocoGlide/real/knife_189451.png',)
+Processing file: ('./CocoGlide/real/knife_189451.png',)
+Detection: 0.5384662747383118, Label: 0
+Processing file: ('./CocoGlide/real/chair_213224.png',)
+Processing file: ('./CocoGlide/real/chair_213224.png',)
+Detection: 0.5200999975204468, Label: 0
+Processing file: ('./CocoGlide/real/horse_384513.png',)
+Processing file: ('./CocoGlide/real/horse_384513.png',)
+Detection: 0.6201960444450378, Label: 0
+Processing file: ('./CocoGlide/real/microwave_365766.png',)
+Processing file: ('./CocoGlide/real/microwave_365766.png',)
+Detection: 0.5873744487762451, Label: 0
+Processing file: ('./CocoGlide/real/scissors_324715.png',)
+Processing file: ('./CocoGlide/real/scissors_324715.png',)
+Detection: 0.5401754975318909, Label: 0
+Processing file: ('./CocoGlide/real/mouse_248314.png',)
+Processing file: ('./CocoGlide/real/mouse_248314.png',)
+Detection: 0.5405252575874329, Label: 0
+Processing file: ('./CocoGlide/real/bird_544811.png',)
+Processing file: ('./CocoGlide/real/bird_544811.png',)
+Detection: 0.5592632293701172, Label: 0
+Processing file: ('./CocoGlide/real/fork_105014.png',)
+Processing file: ('./CocoGlide/real/fork_105014.png',)
+Detection: 0.5090670585632324, Label: 0
+Processing file: ('./CocoGlide/real/umbrella_526103.png',)
+Processing file: ('./CocoGlide/real/umbrella_526103.png',)
+Detection: 0.5450093746185303, Label: 0
+AUC: 0.4508800506591797
+bACC: 0.5

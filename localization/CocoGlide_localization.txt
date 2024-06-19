@@ -1,0 +1,1026 @@
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_114871_up.png',)
+Step 0: F1 - best: 1.0, F1 - fixed: 0.9827592035428147
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_563758_up.png',)
+Step 1: F1 - best: 0.9756749868392944, F1 - fixed: 0.9130434782608695
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_73326_up.png',)
+Step 2: F1 - best: 0.9454681277275085, F1 - fixed: 0.8963377648731692
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_493334_up.png',)
+Step 3: F1 - best: 0.9222568273544312, F1 - fixed: 0.7489239907032796
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_364322_up.png',)
+Step 4: F1 - best: 0.9109112620353699, F1 - fixed: 0.866736023030113
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_405205_up.png',)
+Step 5: F1 - best: 0.9988800883293152, F1 - fixed: 0.986254640313033
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_66135_up.png',)
+Step 6: F1 - best: 0.9933954477310181, F1 - fixed: 0.9882036534057623
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_95843_up.png',)
+Step 7: F1 - best: 1.0, F1 - fixed: 0.9621162229121586
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_164363_up.png',)
+Step 8: F1 - best: 0.9996303915977478, F1 - fixed: 0.9971467042831496
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_128598_up.png',)
+Step 9: F1 - best: 0.7310563325881958, F1 - fixed: 0.5797889956001324
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_80949_up.png',)
+Step 10: F1 - best: 0.7766941785812378, F1 - fixed: 0.7698919840818647
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_409268_up.png',)
+Step 11: F1 - best: 0.991108238697052, F1 - fixed: 0.9895366747516952
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_402992_up.png',)
+Step 12: F1 - best: 0.7220694422721863, F1 - fixed: 0.5678138115223197
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_66841_up.png',)
+Step 13: F1 - best: 0.9086048603057861, F1 - fixed: 0.621218313085906
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_221213_up.png',)
+Step 14: F1 - best: 0.7785806655883789, F1 - fixed: 0.6765129189226236
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_331352_up.png',)
+Step 15: F1 - best: 0.8398393392562866, F1 - fixed: 0.41730329021760115
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_220310_up.png',)
+Step 16: F1 - best: 0.5686360001564026, F1 - fixed: 0.4608640540826027
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_270402_up.png',)
+Step 17: F1 - best: 0.8017122149467468, F1 - fixed: 0.3422694422138489
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_66635_up.png',)
+Step 18: F1 - best: 0.9935178160667419, F1 - fixed: 0.9888823468292176
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_201934_up.png',)
+Step 19: F1 - best: 0.9465851783752441, F1 - fixed: 0.41205374382465343
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_53994_up.png',)
+Step 20: F1 - best: 0.8957586288452148, F1 - fixed: 0.88975
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_387098_up.png',)
+Step 21: F1 - best: 0.8934651017189026, F1 - fixed: 0.3641138950264727
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_355905_up.png',)
+Step 22: F1 - best: 0.945992648601532, F1 - fixed: 0.2957307885484681
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_267434_up.png',)
+Step 23: F1 - best: 0.8397861123085022, F1 - fixed: 0.1933461069500087
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_56344_up.png',)
+Step 24: F1 - best: 1.0, F1 - fixed: 0.9999529876357482
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_346707_up.png',)
+Step 25: F1 - best: 0.4707174301147461, F1 - fixed: 0.2408409821918883
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_435880_up.png',)
+Step 26: F1 - best: 0.8745309114456177, F1 - fixed: 0.8667917448405253
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_450439_up.png',)
+Step 27: F1 - best: 0.9823353290557861, F1 - fixed: 0.7860857091626322
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_561335_up.png',)
+Step 28: F1 - best: 0.8462223410606384, F1 - fixed: 0.8128119045458669
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_415238_up.png',)
+Step 29: F1 - best: 0.7901848554611206, F1 - fixed: 0.653473454346936
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_562059_up.png',)
+Step 30: F1 - best: 0.49009305238723755, F1 - fixed: 0.40262563759511666
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_27932_up.png',)
+Step 31: F1 - best: 1.0, F1 - fixed: 0.9991823385118561
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_369757_up.png',)
+Step 32: F1 - best: 0.2073322981595993, F1 - fixed: 0.12187740831939249
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_224051_up.png',)
+Step 33: F1 - best: 0.6699650287628174, F1 - fixed: 0.15610210007861255
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_173091_up.png',)
+Step 34: F1 - best: 0.4289872646331787, F1 - fixed: 0.4076227390180879
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_121506_up.png',)
+Step 35: F1 - best: 0.9185256958007812, F1 - fixed: 0.9102267002518891
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_184400_up.png',)
+Step 36: F1 - best: 0.7634419202804565, F1 - fixed: 0.1724095908356945
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_572517_up.png',)
+Step 37: F1 - best: 0.24594394862651825, F1 - fixed: 0.12308415450989608
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_350388_up.png',)
+Step 38: F1 - best: 0.7383767366409302, F1 - fixed: 0.7034510433386838
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_170595_up.png',)
+Step 39: F1 - best: 0.9900619983673096, F1 - fixed: 0.87862038470042
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_2592_up.png',)
+Step 40: F1 - best: 0.23044082522392273, F1 - fixed: 0.09285341679707877
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_34205_up.png',)
+Step 41: F1 - best: 0.5788126587867737, F1 - fixed: 0.12233377071190991
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_372260_up.png',)
+Step 42: F1 - best: 0.2728613615036011, F1 - fixed: 0.05568525130458665
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_314034_up.png',)
+Step 43: F1 - best: 0.1775401085615158, F1 - fixed: 0.05309734513274336
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_528524_up.png',)
+Step 44: F1 - best: 0.8817446231842041, F1 - fixed: 0.06974536612986494
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_549167_up.png',)
+Step 45: F1 - best: 0.2613905072212219, F1 - fixed: 0.2284688995215311
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_571943_up.png',)
+Step 46: F1 - best: 0.9956748485565186, F1 - fixed: 0.8127199902900838
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_3501_up.png',)
+Step 47: F1 - best: 0.21947616338729858, F1 - fixed: 0.1765049678550555
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_159282_up.png',)
+Step 48: F1 - best: 0.24637936055660248, F1 - fixed: 0.09499968708930472
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_561366_up.png',)
+Step 49: F1 - best: 0.8711300492286682, F1 - fixed: 0.5603965562222802
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_191580_up.png',)
+Step 50: F1 - best: 0.1995314061641693, F1 - fixed: 0.06814245132682048
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_116362_up.png',)
+Step 51: F1 - best: 0.5138339996337891, F1 - fixed: 0.06692841490138787
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_47769_up.png',)
+Step 52: F1 - best: 0.5488947033882141, F1 - fixed: 0.09986529234588082
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_386210_up.png',)
+Step 53: F1 - best: 0.5607665181159973, F1 - fixed: 0.049471374426491126
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_146363_up.png',)
+Step 54: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_417876_up.png',)
+Step 55: F1 - best: 0.5308784246444702, F1 - fixed: 0.035810661733507575
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_544052_up.png',)
+Step 56: F1 - best: 0.18374356627464294, F1 - fixed: 0.03571303648256322
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_222991_up.png',)
+Step 57: F1 - best: 0.15561224520206451, F1 - fixed: 0.01892840272622984
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_72813_up.png',)
+Step 58: F1 - best: 0.893746018409729, F1 - fixed: 0.8785761809713906
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_81061_up.png',)
+Step 59: F1 - best: 0.9930438995361328, F1 - fixed: 0.9790242752769267
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_426166_up.png',)
+Step 60: F1 - best: 0.04417204484343529, F1 - fixed: 0.030000166298039345
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_567432_up.png',)
+Step 61: F1 - best: 1.0, F1 - fixed: 0.948
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_293474_up.png',)
+Step 62: F1 - best: 0.9974619150161743, F1 - fixed: 0.037420849665941947
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_44652_up.png',)
+Step 63: F1 - best: 0.923794686794281, F1 - fixed: 0.8066445182724252
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_208901_up.png',)
+Step 64: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_366141_up.png',)
+Step 65: F1 - best: 0.7970897555351257, F1 - fixed: 0.03417392252457127
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_36844_up.png',)
+Step 66: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_285788_up.png',)
+Step 67: F1 - best: 0.06533575057983398, F1 - fixed: 0.0017648212301457611
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_231822_up.png',)
+Step 68: F1 - best: 0.02474197745323181, F1 - fixed: 0.00597444089456869
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_452084_up.png',)
+Step 69: F1 - best: 1.0, F1 - fixed: 0.9565217391304348
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_217614_up.png',)
+Step 70: F1 - best: 1.0, F1 - fixed: 0.753731343283582
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_308753_up.png',)
+Step 71: F1 - best: 1.0, F1 - fixed: 0.5673758865248227
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_263860_up.png',)
+Step 72: F1 - best: 0.7130982279777527, F1 - fixed: 0.7130730050933786
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_95786_up.png',)
+Step 73: F1 - best: 0.7441096305847168, F1 - fixed: 0.6214068441064639
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_287959_up.png',)
+Step 74: F1 - best: 0.9600852131843567, F1 - fixed: 0.9512028196968142
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_330790_up.png',)
+Step 75: F1 - best: 0.6520476937294006, F1 - fixed: 0.6381862130475808
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_377814_up.png',)
+Step 76: F1 - best: 0.9637225866317749, F1 - fixed: 0.8054448871181938
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_451150_up.png',)
+Step 77: F1 - best: 0.9801655411720276, F1 - fixed: 0.7701565690946222
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_361571_up.png',)
+Step 78: F1 - best: 0.9952499270439148, F1 - fixed: 0.9904265803181754
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_101762_up.png',)
+Step 79: F1 - best: 0.9853792786598206, F1 - fixed: 0.9369435844789143
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_24144_up.png',)
+Step 80: F1 - best: 0.9981848001480103, F1 - fixed: 0.9975384995979961
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_304545_up.png',)
+Step 81: F1 - best: 0.9998495578765869, F1 - fixed: 0.9643193951272315
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_283038_up.png',)
+Step 82: F1 - best: 0.9924780130386353, F1 - fixed: 0.9888008011349412
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_182417_up.png',)
+Step 83: F1 - best: 0.8709998726844788, F1 - fixed: 0.8580199239409907
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_534639_up.png',)
+Step 84: F1 - best: 0.8531137704849243, F1 - fixed: 0.7630742463278348
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_232489_up.png',)
+Step 85: F1 - best: 0.9917213916778564, F1 - fixed: 0.8917767670204317
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_133778_up.png',)
+Step 86: F1 - best: 0.7497658133506775, F1 - fixed: 0.5611632838533778
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_168593_up.png',)
+Step 87: F1 - best: 0.9167655110359192, F1 - fixed: 0.7902571711177052
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_402473_up.png',)
+Step 88: F1 - best: 0.9662750363349915, F1 - fixed: 0.5765825076533131
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_435299_up.png',)
+Step 89: F1 - best: 0.651439368724823, F1 - fixed: 0.5875523590178727
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_317024_up.png',)
+Step 90: F1 - best: 0.9820538759231567, F1 - fixed: 0.953947131162321
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_50896_up.png',)
+Step 91: F1 - best: 0.9746295213699341, F1 - fixed: 0.9736943534399691
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_147498_up.png',)
+Step 92: F1 - best: 0.4496316611766815, F1 - fixed: 0.40158292656637357
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_410878_up.png',)
+Step 93: F1 - best: 0.6322265267372131, F1 - fixed: 0.4551314790530748
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_203546_up.png',)
+Step 94: F1 - best: 0.957761287689209, F1 - fixed: 0.9207967011592624
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_185409_up.png',)
+Step 95: F1 - best: 0.9499800205230713, F1 - fixed: 0.5970706222595391
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_518213_up.png',)
+Step 96: F1 - best: 0.9648273587226868, F1 - fixed: 0.8925980326701384
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_293858_up.png',)
+Step 97: F1 - best: 0.8399669528007507, F1 - fixed: 0.35364532862110243
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_51326_up.png',)
+Step 98: F1 - best: 0.956134021282196, F1 - fixed: 0.7782708589053599
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_198960_up.png',)
+Step 99: F1 - best: 0.9265214204788208, F1 - fixed: 0.5756311745334797
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_328117_up.png',)
+Step 100: F1 - best: 0.793456494808197, F1 - fixed: 0.7816377171215881
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_272416_up.png',)
+Step 101: F1 - best: 0.9976902604103088, F1 - fixed: 0.9566580804121402
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_420472_up.png',)
+Step 102: F1 - best: 0.807948887348175, F1 - fixed: 0.6274951376804176
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_20247_up.png',)
+Step 103: F1 - best: 0.9960632920265198, F1 - fixed: 0.9662985393658711
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_319617_up.png',)
+Step 104: F1 - best: 0.7574228644371033, F1 - fixed: 0.2132983794089609
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_433374_up.png',)
+Step 105: F1 - best: 0.8977155089378357, F1 - fixed: 0.8100225374519422
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_244411_up.png',)
+Step 106: F1 - best: 0.7538169622421265, F1 - fixed: 0.5010594947025265
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_75393_up.png',)
+Step 107: F1 - best: 0.3468122184276581, F1 - fixed: 0.28063241106719367
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_529105_up.png',)
+Step 108: F1 - best: 0.8963903784751892, F1 - fixed: 0.603735632183908
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_394328_up.png',)
+Step 109: F1 - best: 0.9537321925163269, F1 - fixed: 0.9449808429118774
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_85195_up.png',)
+Step 110: F1 - best: 1.0, F1 - fixed: 0.9184306084492073
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_356498_up.png',)
+Step 111: F1 - best: 0.8393821716308594, F1 - fixed: 0.11554247404137029
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_15517_up.png',)
+Step 112: F1 - best: 0.18213120102882385, F1 - fixed: 0.05979174866711991
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_284296_up.png',)
+Step 113: F1 - best: 0.17895565927028656, F1 - fixed: 0.034338510785347935
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_533206_up.png',)
+Step 114: F1 - best: 0.9887456297874451, F1 - fixed: 0.9415357766143106
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_233033_up.png',)
+Step 115: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_418961_up.png',)
+Step 116: F1 - best: 1.0, F1 - fixed: 0.9609434829223464
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_579893_up.png',)
+Step 117: F1 - best: 0.17202123999595642, F1 - fixed: 0.10159087110449304
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_383621_up.png',)
+Step 118: F1 - best: 1.0, F1 - fixed: 0.9865563598759048
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_508639_up.png',)
+Step 119: F1 - best: 0.12054753303527832, F1 - fixed: 0.0625861804810786
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_60449_up.png',)
+Step 120: F1 - best: 0.28155794739723206, F1 - fixed: 0.07084571482477242
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_375078_up.png',)
+Step 121: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_328683_up.png',)
+Step 122: F1 - best: 0.8828863501548767, F1 - fixed: 0.8373031893419459
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_36861_up.png',)
+Step 123: F1 - best: 0.36381322145462036, F1 - fixed: 0.05533078534533766
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_23023_up.png',)
+Step 124: F1 - best: 1.0, F1 - fixed: 0.9917392275061397
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_129054_up.png',)
+Step 125: F1 - best: 0.0027326710987836123, F1 - fixed: 0.0010234692076936652
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_505573_up.png',)
+Step 126: F1 - best: 0.5657813549041748, F1 - fixed: 0.036492798754379135
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_340272_up.png',)
+Step 127: F1 - best: 0.6184424757957458, F1 - fixed: 0.39670468948035487
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_196843_up.png',)
+Step 128: F1 - best: 0.4577777683734894, F1 - fixed: 0.03238462775365814
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_194746_up.png',)
+Step 129: F1 - best: 0.14492550492286682, F1 - fixed: 0.03943182891877421
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_3845_up.png',)
+Step 130: F1 - best: 0.09211775660514832, F1 - fixed: 0.006625917275422817
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_314914_up.png',)
+Step 131: F1 - best: 0.08726423978805542, F1 - fixed: 0.04401386653460443
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_15440_up.png',)
+Step 132: F1 - best: 0.040867336094379425, F1 - fixed: 0.024166494427397173
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_355677_up.png',)
+Step 133: F1 - best: 0.3821062445640564, F1 - fixed: 0.021645296432652023
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_526392_up.png',)
+Step 134: F1 - best: 0.5928338766098022, F1 - fixed: 0.006147574134890719
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_559707_up.png',)
+Step 135: F1 - best: 0.596069872379303, F1 - fixed: 0.5835189309576837
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_153632_up.png',)
+Step 136: F1 - best: 0.0022522523067891598, F1 - fixed: 0.0006530612244897959
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_471869_up.png',)
+Step 137: F1 - best: 0.0875576063990593, F1 - fixed: 0.06103486488790384
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416837_up.png',)
+Step 138: F1 - best: 0.9806451797485352, F1 - fixed: 0.9513274336283186
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_226883_up.png',)
+Step 139: F1 - best: 0.05430566146969795, F1 - fixed: 0.004937091893613633
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_29675_up.png',)
+Step 140: F1 - best: 0.9366762638092041, F1 - fixed: 0.6079391262704198
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_456394_up.png',)
+Step 141: F1 - best: 0.7602719664573669, F1 - fixed: 0.5505297314203057
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416330_up.png',)
+Step 142: F1 - best: 0.9816029667854309, F1 - fixed: 0.9814020476533392
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_122969_up.png',)
+Step 143: F1 - best: 0.9401912093162537, F1 - fixed: 0.8286660539959425
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_22589_up.png',)
+Step 144: F1 - best: 0.6583725810050964, F1 - fixed: 0.4981488164454603
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_222863_up.png',)
+Step 145: F1 - best: 0.8429386615753174, F1 - fixed: 0.5296820782143862
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_537802_up.png',)
+Step 146: F1 - best: 0.950930655002594, F1 - fixed: 0.649913566809655
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_370900_up.png',)
+Step 147: F1 - best: 0.9420101642608643, F1 - fixed: 0.8970965974800658
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_129135_up.png',)
+Step 148: F1 - best: 0.7666139006614685, F1 - fixed: 0.5046922561984515
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416269_up.png',)
+Step 149: F1 - best: 0.9975777268409729, F1 - fixed: 0.9548595117457392
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_25139_up.png',)
+Step 150: F1 - best: 0.9210829734802246, F1 - fixed: 0.6747465687952134
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_486046_up.png',)
+Step 151: F1 - best: 0.8389182090759277, F1 - fixed: 0.4765830725325024
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_322211_up.png',)
+Step 152: F1 - best: 0.9918749332427979, F1 - fixed: 0.9812190787261637
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_84650_up.png',)
+Step 153: F1 - best: 0.727502703666687, F1 - fixed: 0.7171746306444893
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_380203_up.png',)
+Step 154: F1 - best: 0.5809460878372192, F1 - fixed: 0.4746781754594836
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_451693_up.png',)
+Step 155: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_196759_up.png',)
+Step 156: F1 - best: 0.9426413178443909, F1 - fixed: 0.5260933056644378
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_269866_up.png',)
+Step 157: F1 - best: 0.957872211933136, F1 - fixed: 0.7641059736981485
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_283113_up.png',)
+Step 158: F1 - best: 0.8578599691390991, F1 - fixed: 0.5597600111622715
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_76417_up.png',)
+Step 159: F1 - best: 0.9202562570571899, F1 - fixed: 0.9157799482010797
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_438226_up.png',)
+Step 160: F1 - best: 0.9740575551986694, F1 - fixed: 0.9666455753412275
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_139871_up.png',)
+Step 161: F1 - best: 0.9298300743103027, F1 - fixed: 0.26753155680224405
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_214200_up.png',)
+Step 162: F1 - best: 0.8678584694862366, F1 - fixed: 0.3473043795928117
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_521282_up.png',)
+Step 163: F1 - best: 0.9864228367805481, F1 - fixed: 0.9186140209508461
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_228981_up.png',)
+Step 164: F1 - best: 0.852340042591095, F1 - fixed: 0.7781913728924896
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_577584_up.png',)
+Step 165: F1 - best: 0.6920864582061768, F1 - fixed: 0.2697474009918885
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_1675_up.png',)
+Step 166: F1 - best: 0.5978628396987915, F1 - fixed: 0.24686130957631355
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_288391_up.png',)
+Step 167: F1 - best: 0.9966248273849487, F1 - fixed: 0.9892881053336309
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_304817_up.png',)
+Step 168: F1 - best: 0.9930832386016846, F1 - fixed: 0.9766787958981145
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_431140_up.png',)
+Step 169: F1 - best: 0.9998700022697449, F1 - fixed: 0.9985677083333333
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_553094_up.png',)
+Step 170: F1 - best: 0.9777002930641174, F1 - fixed: 0.9701170960187354
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_189078_up.png',)
+Step 171: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_323709_up.png',)
+Step 172: F1 - best: 0.9980829358100891, F1 - fixed: 0.9932967702620353
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_146489_up.png',)
+Step 173: F1 - best: 0.8573458790779114, F1 - fixed: 0.7627769571639587
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_194724_up.png',)
+Step 174: F1 - best: 0.24523232877254486, F1 - fixed: 0.19614128821608787
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_59920_up.png',)
+Step 175: F1 - best: 0.874239981174469, F1 - fixed: 0.6587677725118484
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_393014_up.png',)
+Step 176: F1 - best: 0.4170511066913605, F1 - fixed: 0.17410925616183293
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_48924_up.png',)
+Step 177: F1 - best: 0.6706620454788208, F1 - fixed: 0.66
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_147518_up.png',)
+Step 178: F1 - best: 0.9581056237220764, F1 - fixed: 0.6331658291457286
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_133233_up.png',)
+Step 179: F1 - best: 0.1878235638141632, F1 - fixed: 0.05639476334340383
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_516871_up.png',)
+Step 180: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_575500_up.png',)
+Step 181: F1 - best: 0.6067342758178711, F1 - fixed: 0.14032124320506126
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_228436_up.png',)
+Step 182: F1 - best: 0.2718149423599243, F1 - fixed: 0.05479994955954676
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_85911_up.png',)
+Step 183: F1 - best: 0.9403178095817566, F1 - fixed: 0.12787787398759462
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_20059_up.png',)
+Step 184: F1 - best: 0.9714640378952026, F1 - fixed: 0.49316317228805834
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_370478_up.png',)
+Step 185: F1 - best: 0.3559865951538086, F1 - fixed: 0.1206899386684644
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_164115_up.png',)
+Step 186: F1 - best: 0.7710791826248169, F1 - fixed: 0.744070796460177
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_491725_up.png',)
+Step 187: F1 - best: 0.29032257199287415, F1 - fixed: 0.04412983425414364
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_69795_up.png',)
+Step 188: F1 - best: 0.38129594922065735, F1 - fixed: 0.0971469958433052
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_390301_up.png',)
+Step 189: F1 - best: 0.7496394515037537, F1 - fixed: 0.6866677362425798
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_138550_up.png',)
+Step 190: F1 - best: 0.9983171820640564, F1 - fixed: 0.07547649301143583
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_78959_up.png',)
+Step 191: F1 - best: 0.5792349576950073, F1 - fixed: 0.019352066683853225
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_269932_up.png',)
+Step 192: F1 - best: 1.0, F1 - fixed: 0.9919944309084581
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_460379_up.png',)
+Step 193: F1 - best: 0.6180180311203003, F1 - fixed: 0.5861751152073733
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_211069_up.png',)
+Step 194: F1 - best: 0.6702702641487122, F1 - fixed: 0.6644951140065146
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_552612_up.png',)
+Step 195: F1 - best: 0.9941747784614563, F1 - fixed: 0.934156378600823
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_85576_up.png',)
+Step 196: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_313130_up.png',)
+Step 197: F1 - best: 0.39481666684150696, F1 - fixed: 0.05178174584673722
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_32285_up.png',)
+Step 198: F1 - best: 1.0, F1 - fixed: 0.9929411764705882
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_17178_up.png',)
+Step 199: F1 - best: 0.012240285985171795, F1 - fixed: 0.007190014615216625
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_221693_up.png',)
+Step 200: F1 - best: 0.07515823096036911, F1 - fixed: 0.03859501688531989
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_465430_up.png',)
+Step 201: F1 - best: 0.015775246545672417, F1 - fixed: 0.00580996833893658
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_340175_up.png',)
+Step 202: F1 - best: 0.038614898920059204, F1 - fixed: 0.026928538433901902
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_210030_up.png',)
+Step 203: F1 - best: 1.0, F1 - fixed: 0.6896551724137931
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_68765_up.png',)
+Step 204: F1 - best: 1.0, F1 - fixed: 0.9278663629460896
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_25986_up.png',)
+Step 205: F1 - best: 0.9285714030265808, F1 - fixed: 0.07975460122699386
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_335427_up.png',)
+Step 206: F1 - best: 0.002199085894972086, F1 - fixed: 0.0012678790760331233
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_347664_up.png',)
+Step 207: F1 - best: 0.0018093466060236096, F1 - fixed: 0.001167466597483461
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_392818_up.png',)
+Step 208: F1 - best: 0.8264965415000916, F1 - fixed: 0.6766334440753046
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_283717_up.png',)
+Step 209: F1 - best: 0.7985467314720154, F1 - fixed: 0.7337537338201129
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_407574_up.png',)
+Step 210: F1 - best: 0.7226802110671997, F1 - fixed: 0.49372505097498637
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_290833_up.png',)
+Step 211: F1 - best: 0.8791289329528809, F1 - fixed: 0.4059066745422327
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_100582_up.png',)
+Step 212: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_279145_up.png',)
+Step 213: F1 - best: 0.5254371762275696, F1 - fixed: 0.2511372136748681
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_579091_up.png',)
+Step 214: F1 - best: 0.7759854793548584, F1 - fixed: 0.7237086584912672
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_474164_up.png',)
+Step 215: F1 - best: 0.9265041947364807, F1 - fixed: 0.513178778653761
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_63552_up.png',)
+Step 216: F1 - best: 0.6685363054275513, F1 - fixed: 0.5540061451193571
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_125952_up.png',)
+Step 217: F1 - best: 0.5052177309989929, F1 - fixed: 0.48105986897580594
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_43581_up.png',)
+Step 218: F1 - best: 1.0, F1 - fixed: 0.9999682045086007
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_110638_up.png',)
+Step 219: F1 - best: 0.8693127632141113, F1 - fixed: 0.6723129311097529
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_540928_up.png',)
+Step 220: F1 - best: 0.9208401441574097, F1 - fixed: 0.8429789196155165
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_279887_up.png',)
+Step 221: F1 - best: 0.7082120776176453, F1 - fixed: 0.4986572438162544
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_161820_up.png',)
+Step 222: F1 - best: 0.9821932911872864, F1 - fixed: 0.8474666231168089
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_337498_up.png',)
+Step 223: F1 - best: 0.9950544238090515, F1 - fixed: 0.9946805283064662
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_125062_up.png',)
+Step 224: F1 - best: 0.6856127977371216, F1 - fixed: 0.5190202434101889
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_485130_up.png',)
+Step 225: F1 - best: 0.9143483638763428, F1 - fixed: 0.810612195319459
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_493284_up.png',)
+Step 226: F1 - best: 0.8476940393447876, F1 - fixed: 0.8476388795593471
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_57232_up.png',)
+Step 227: F1 - best: 0.19603267312049866, F1 - fixed: 0.030647184459436552
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_393838_up.png',)
+Step 228: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_523782_up.png',)
+Step 229: F1 - best: 0.9847863912582397, F1 - fixed: 0.984786387915582
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_453860_up.png',)
+Step 230: F1 - best: 0.8394340872764587, F1 - fixed: 0.697295104715954
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_333956_up.png',)
+Step 231: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_335450_up.png',)
+Step 232: F1 - best: 0.9858754277229309, F1 - fixed: 0.3276643810554115
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_231527_up.png',)
+Step 233: F1 - best: 0.9891332983970642, F1 - fixed: 0.9592789165446559
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_134689_up.png',)
+Step 234: F1 - best: 0.7285597920417786, F1 - fixed: 0.26778980361428084
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_543300_up.png',)
+Step 235: F1 - best: 0.9618576765060425, F1 - fixed: 0.3211615871190339
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_32610_up.png',)
+Step 236: F1 - best: 0.9996563792228699, F1 - fixed: 0.9776119402985075
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_368684_up.png',)
+Step 237: F1 - best: 0.7530864477157593, F1 - fixed: 0.7519892412865629
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_132116_up.png',)
+Step 238: F1 - best: 0.43586528301239014, F1 - fixed: 0.35890678379697416
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_180798_up.png',)
+Step 239: F1 - best: 0.2401149868965149, F1 - fixed: 0.2384800240312406
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_402433_up.png',)
+Step 240: F1 - best: 0.36601847410202026, F1 - fixed: 0.20981622060290464
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416885_up.png',)
+Step 241: F1 - best: 0.9799426794052124, F1 - fixed: 0.9671450804080927
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_129113_up.png',)
+Step 242: F1 - best: 0.9685505628585815, F1 - fixed: 0.9034083601286174
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_430871_up.png',)
+Step 243: F1 - best: 0.9990280270576477, F1 - fixed: 0.9923351158645276
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_322574_up.png',)
+Step 244: F1 - best: 0.9935221672058105, F1 - fixed: 0.9908929926637996
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_131938_up.png',)
+Step 245: F1 - best: 0.7159823775291443, F1 - fixed: 0.3754657494984236
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_377575_up.png',)
+Step 246: F1 - best: 0.14485682547092438, F1 - fixed: 0.09021506377432269
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_133645_up.png',)
+Step 247: F1 - best: 0.7051509618759155, F1 - fixed: 0.05985892280308524
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_293071_up.png',)
+Step 248: F1 - best: 1.0, F1 - fixed: 0.9901901901901902
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_424721_up.png',)
+Step 249: F1 - best: 0.996405839920044, F1 - fixed: 0.929267042542286
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_344614_up.png',)
+Step 250: F1 - best: 0.1254066526889801, F1 - fixed: 0.058969386781956325
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_365385_up.png',)
+Step 251: F1 - best: 0.9492151141166687, F1 - fixed: 0.07453332434800189
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_377882_up.png',)
+Step 252: F1 - best: 0.025045504793524742, F1 - fixed: 0.010079897515423255
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_225532_up.png',)
+Step 253: F1 - best: 0.999498724937439, F1 - fixed: 0.9263044647660033
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_127182_up.png',)
+Step 254: F1 - best: 0.5085910558700562, F1 - fixed: 0.04755684115579609
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_433192_up.png',)
+Step 255: F1 - best: 0.9040403962135315, F1 - fixed: 0.9029003783102144
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_318114_up.png',)
+Step 256: F1 - best: 1.0, F1 - fixed: 0.647493837304848
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_474170_up.png',)
+Step 257: F1 - best: 1.0, F1 - fixed: 0.9987760097919217
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_267351_up.png',)
+Step 258: F1 - best: 0.28523603081703186, F1 - fixed: 0.024513315187113
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_241319_up.png',)
+Step 259: F1 - best: 0.0, F1 - fixed: 0.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_225184_up.png',)
+Step 260: F1 - best: 0.6136865615844727, F1 - fixed: 0.11952191235059761
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_194216_up.png',)
+Step 261: F1 - best: 0.9062844514846802, F1 - fixed: 0.6011730205278593
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_11813_up.png',)
+Step 262: F1 - best: 0.0308830626308918, F1 - fixed: 0.02114211327028341
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_92177_up.png',)
+Step 263: F1 - best: 0.37037035822868347, F1 - fixed: 0.005611672278338945
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_556765_up.png',)
+Step 264: F1 - best: 0.9812208414077759, F1 - fixed: 0.37359093329276644
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_98839_up.png',)
+Step 265: F1 - best: 0.7708427309989929, F1 - fixed: 0.7556135849514931
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_300842_up.png',)
+Step 266: F1 - best: 0.8337457180023193, F1 - fixed: 0.16012243856814898
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_232348_up.png',)
+Step 267: F1 - best: 0.756158709526062, F1 - fixed: 0.4451100473350627
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_428280_up.png',)
+Step 268: F1 - best: 0.4373262822628021, F1 - fixed: 0.2601626016260163
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_486479_up.png',)
+Step 269: F1 - best: 0.994427502155304, F1 - fixed: 0.993452380952381
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_408830_up.png',)
+Step 270: F1 - best: 0.8585858345031738, F1 - fixed: 0.7060407705255284
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_61471_up.png',)
+Step 271: F1 - best: 0.3237055838108063, F1 - fixed: 0.1531125062218012
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_14888_up.png',)
+Step 272: F1 - best: 0.5942810773849487, F1 - fixed: 0.5028288032356694
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_77396_up.png',)
+Step 273: F1 - best: 0.4387490749359131, F1 - fixed: 0.18103267856608962
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_166563_up.png',)
+Step 274: F1 - best: 0.9830986857414246, F1 - fixed: 0.9788306855016207
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_39956_up.png',)
+Step 275: F1 - best: 0.7592989802360535, F1 - fixed: 0.17018194985063817
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_446522_up.png',)
+Step 276: F1 - best: 0.5399591326713562, F1 - fixed: 0.30623206115547474
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_357501_up.png',)
+Step 277: F1 - best: 0.8636391162872314, F1 - fixed: 0.5808190037227442
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_341058_up.png',)
+Step 278: F1 - best: 0.6405323147773743, F1 - fixed: 0.24540244504631223
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_157390_up.png',)
+Step 279: F1 - best: 0.5022367835044861, F1 - fixed: 0.2933666636907419
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_99428_up.png',)
+Step 280: F1 - best: 0.9566313624382019, F1 - fixed: 0.47476424599016687
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_251119_up.png',)
+Step 281: F1 - best: 0.6826173067092896, F1 - fixed: 0.4431533930444606
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_245764_up.png',)
+Step 282: F1 - best: 0.9324879050254822, F1 - fixed: 0.8531043392355042
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_384651_up.png',)
+Step 283: F1 - best: 0.6398069858551025, F1 - fixed: 0.2161787200739924
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_296969_up.png',)
+Step 284: F1 - best: 0.8594490885734558, F1 - fixed: 0.46686332350049164
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_389315_up.png',)
+Step 285: F1 - best: 0.9889463782310486, F1 - fixed: 0.9432036182259996
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_530052_up.png',)
+Step 286: F1 - best: 0.6960433721542358, F1 - fixed: 0.5589418610674632
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_269196_up.png',)
+Step 287: F1 - best: 0.7308762669563293, F1 - fixed: 0.6308697605007317
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_79408_up.png',)
+Step 288: F1 - best: 0.9746525287628174, F1 - fixed: 0.7142105324710257
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_540280_up.png',)
+Step 289: F1 - best: 0.9980996251106262, F1 - fixed: 0.998042661408998
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_156372_up.png',)
+Step 290: F1 - best: 0.9787150025367737, F1 - fixed: 0.4932835267050936
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_167128_up.png',)
+Step 291: F1 - best: 0.8422960638999939, F1 - fixed: 0.8316507162069181
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_452122_up.png',)
+Step 292: F1 - best: 0.9880416393280029, F1 - fixed: 0.9863223827176275
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_131131_up.png',)
+Step 293: F1 - best: 0.718664288520813, F1 - fixed: 0.7184471800062517
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_140929_up.png',)
+Step 294: F1 - best: 0.9978388547897339, F1 - fixed: 0.9938449276004074
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_567825_up.png',)
+Step 295: F1 - best: 0.30868616700172424, F1 - fixed: 0.16746620148277366
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_28809_up.png',)
+Step 296: F1 - best: 0.9782178401947021, F1 - fixed: 0.9781412171725113
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_91779_up.png',)
+Step 297: F1 - best: 0.941923975944519, F1 - fixed: 0.2709891936824605
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_423519_up.png',)
+Step 298: F1 - best: 0.9616308808326721, F1 - fixed: 0.9050153531218015
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_451090_up.png',)
+Step 299: F1 - best: 0.9999147057533264, F1 - fixed: 0.17910766927858987
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_357941_up.png',)
+Step 300: F1 - best: 0.6385897397994995, F1 - fixed: 0.4536370531021728
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_288882_up.png',)
+Step 301: F1 - best: 0.7731272578239441, F1 - fixed: 0.6160781111791522
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_252332_up.png',)
+Step 302: F1 - best: 0.9929673671722412, F1 - fixed: 0.843855436978434
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_148957_up.png',)
+Step 303: F1 - best: 0.9940924048423767, F1 - fixed: 0.8990484071162598
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_104198_up.png',)
+Step 304: F1 - best: 0.956053614616394, F1 - fixed: 0.9310286582962671
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_109798_up.png',)
+Step 305: F1 - best: 0.9875640869140625, F1 - fixed: 0.9734230306050413
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_261161_up.png',)
+Step 306: F1 - best: 0.972363293170929, F1 - fixed: 0.9714205561594839
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_35963_up.png',)
+Step 307: F1 - best: 0.6967142820358276, F1 - fixed: 0.5247861244579867
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_172856_up.png',)
+Step 308: F1 - best: 0.6421478986740112, F1 - fixed: 0.11572586225454769
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_405432_up.png',)
+Step 309: F1 - best: 0.15788599848747253, F1 - fixed: 0.08858443051709339
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_44699_up.png',)
+Step 310: F1 - best: 0.28579264879226685, F1 - fixed: 0.029504133634372823
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_139883_up.png',)
+Step 311: F1 - best: 0.026140866801142693, F1 - fixed: 0.02043132803632236
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_384616_up.png',)
+Step 312: F1 - best: 1.0, F1 - fixed: 0.7807139545665276
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_277051_up.png',)
+Step 313: F1 - best: 0.03938417509198189, F1 - fixed: 0.0038287504350852765
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_85665_up.png',)
+Step 314: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_176232_up.png',)
+Step 315: F1 - best: 0.9066932201385498, F1 - fixed: 0.5707976814794369
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_485424_up.png',)
+Step 316: F1 - best: 0.504128634929657, F1 - fixed: 0.03655419633815043
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_304984_up.png',)
+Step 317: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_369370_up.png',)
+Step 318: F1 - best: 0.7850187420845032, F1 - fixed: 0.7801204819277109
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_222299_up.png',)
+Step 319: F1 - best: 0.9498977661132812, F1 - fixed: 0.6603047045035996
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_392228_up.png',)
+Step 320: F1 - best: 0.9984928369522095, F1 - fixed: 0.5483342435827416
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_15497_up.png',)
+Step 321: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_269942_up.png',)
+Step 322: F1 - best: 0.5705521702766418, F1 - fixed: 0.010271364925070879
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_222094_up.png',)
+Step 323: F1 - best: 0.8050051927566528, F1 - fixed: 0.01259375
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_104669_up.png',)
+Step 324: F1 - best: 0.031141867861151695, F1 - fixed: 0.002480630144488652
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_136772_up.png',)
+Step 325: F1 - best: 0.6470767855644226, F1 - fixed: 0.25942422596414993
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_525322_up.png',)
+Step 326: F1 - best: 0.9523809552192688, F1 - fixed: 0.943163097199341
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_550322_up.png',)
+Step 327: F1 - best: 0.7143076658248901, F1 - fixed: 0.6034172661870504
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_535156_up.png',)
+Step 328: F1 - best: 0.626381516456604, F1 - fixed: 0.5045435571396462
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_120853_up.png',)
+Step 329: F1 - best: 0.9943931102752686, F1 - fixed: 0.9939226268765023
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_134722_up.png',)
+Step 330: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_232538_up.png',)
+Step 331: F1 - best: 0.9947011470794678, F1 - fixed: 0.9458518429583384
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_432468_up.png',)
+Step 332: F1 - best: 0.9254361391067505, F1 - fixed: 0.7465892409981867
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_268375_up.png',)
+Step 333: F1 - best: 0.6906952857971191, F1 - fixed: 0.4324396693108411
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_276284_up.png',)
+Step 334: F1 - best: 0.5777477622032166, F1 - fixed: 0.19934950746198976
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_284762_up.png',)
+Step 335: F1 - best: 0.5584635734558105, F1 - fixed: 0.5340031911682264
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_534601_up.png',)
+Step 336: F1 - best: 0.8518643975257874, F1 - fixed: 0.8516163747327282
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_349152_up.png',)
+Step 337: F1 - best: 0.2219933271408081, F1 - fixed: 0.12365866121614716
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_70774_up.png',)
+Step 338: F1 - best: 0.6951325535774231, F1 - fixed: 0.28770603544429296
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_555009_up.png',)
+Step 339: F1 - best: 0.8774561285972595, F1 - fixed: 0.8041242707909375
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_430286_up.png',)
+Step 340: F1 - best: 0.9492481350898743, F1 - fixed: 0.13112283345892992
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_452321_up.png',)
+Step 341: F1 - best: 0.9056704044342041, F1 - fixed: 0.3212331570092608
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_348708_up.png',)
+Step 342: F1 - best: 0.5622276067733765, F1 - fixed: 0.2771992707721781
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_238866_up.png',)
+Step 343: F1 - best: 0.8173155784606934, F1 - fixed: 0.3226331389604603
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_426253_up.png',)
+Step 344: F1 - best: 0.8481007218360901, F1 - fixed: 0.8462146649005534
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_229997_up.png',)
+Step 345: F1 - best: 0.5912144780158997, F1 - fixed: 0.3126308443824145
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_446207_up.png',)
+Step 346: F1 - best: 0.8311032056808472, F1 - fixed: 0.7696342083433678
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_285_up.png',)
+Step 347: F1 - best: 0.9546612501144409, F1 - fixed: 0.8920163521651301
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_338986_up.png',)
+Step 348: F1 - best: 0.4056054353713989, F1 - fixed: 0.1499710394605914
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_286849_up.png',)
+Step 349: F1 - best: 0.5367752313613892, F1 - fixed: 0.22066781047908143
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_530457_up.png',)
+Step 350: F1 - best: 0.37221652269363403, F1 - fixed: 0.22316090073474731
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_223789_up.png',)
+Step 351: F1 - best: 1.0, F1 - fixed: 0.9998423061153688
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_291861_up.png',)
+Step 352: F1 - best: 0.9520334601402283, F1 - fixed: 0.7294634514188292
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_423971_up.png',)
+Step 353: F1 - best: 0.9989538192749023, F1 - fixed: 0.9963270829306012
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_562197_up.png',)
+Step 354: F1 - best: 0.3737969994544983, F1 - fixed: 0.2521082102138568
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_476787_up.png',)
+Step 355: F1 - best: 1.0, F1 - fixed: 0.9996507160321342
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_245915_up.png',)
+Step 356: F1 - best: 0.8255813717842102, F1 - fixed: 0.07806947151209447
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_434297_up.png',)
+Step 357: F1 - best: 0.8072764277458191, F1 - fixed: 0.6322023442319555
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_545826_up.png',)
+Step 358: F1 - best: 0.9991062879562378, F1 - fixed: 0.9985252520368445
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_295231_up.png',)
+Step 359: F1 - best: 0.8461806178092957, F1 - fixed: 0.8017607977935682
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_49269_up.png',)
+Step 360: F1 - best: 0.9604054093360901, F1 - fixed: 0.9545482885466675
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_50844_up.png',)
+Step 361: F1 - best: 0.8843790888786316, F1 - fixed: 0.6402025851873495
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_348012_up.png',)
+Step 362: F1 - best: 0.9997994899749756, F1 - fixed: 0.9518725568492287
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_138856_up.png',)
+Step 363: F1 - best: 0.9945240020751953, F1 - fixed: 0.9942697384567776
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_351331_up.png',)
+Step 364: F1 - best: 0.9969743490219116, F1 - fixed: 0.9965496433599975
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_209142_up.png',)
+Step 365: F1 - best: 1.0, F1 - fixed: 0.7085028785001658
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_348216_up.png',)
+Step 366: F1 - best: 0.9809607267379761, F1 - fixed: 0.8720062381641974
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_443303_up.png',)
+Step 367: F1 - best: 0.745593249797821, F1 - fixed: 0.7084247797969156
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_312406_up.png',)
+Step 368: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_126592_up.png',)
+Step 369: F1 - best: 0.9965441226959229, F1 - fixed: 0.09753017984725301
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_267940_up.png',)
+Step 370: F1 - best: 0.41556575894355774, F1 - fixed: 0.07166998172674202
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_274687_up.png',)
+Step 371: F1 - best: 0.1728653758764267, F1 - fixed: 0.06664094898254412
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_509131_up.png',)
+Step 372: F1 - best: 0.8440918922424316, F1 - fixed: 0.337532419414598
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_203580_up.png',)
+Step 373: F1 - best: 1.0, F1 - fixed: 0.9980209216850439
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_88218_up.png',)
+Step 374: F1 - best: 0.20904994010925293, F1 - fixed: 0.06494117647058824
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_402519_up.png',)
+Step 375: F1 - best: 1.0, F1 - fixed: 0.9140525376179546
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_255912_up.png',)
+Step 376: F1 - best: 0.12689922749996185, F1 - fixed: 0.0569935882213251
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_107554_up.png',)
+Step 377: F1 - best: 0.0, F1 - fixed: 0.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_196754_up.png',)
+Step 378: F1 - best: 0.3442276120185852, F1 - fixed: 0.037376762760514166
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_156278_up.png',)
+Step 379: F1 - best: 0.1425744742155075, F1 - fixed: 0.05230413652266143
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_498286_up.png',)
+Step 380: F1 - best: 0.9224024415016174, F1 - fixed: 0.918942731277533
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_154947_up.png',)
+Step 381: F1 - best: 1.0, F1 - fixed: 0.01943358595931392
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_192904_up.png',)
+Step 382: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_542625_up.png',)
+Step 383: F1 - best: 0.11079423874616623, F1 - fixed: 0.10048231511254019
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_531495_up.png',)
+Step 384: F1 - best: 0.0, F1 - fixed: 0.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_389381_up.png',)
+Step 385: F1 - best: 0.8924731016159058, F1 - fixed: 0.373546511627907
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_489046_up.png',)
+Step 386: F1 - best: 1.0, F1 - fixed: 0.9724770642201835
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_8277_up.png',)
+Step 387: F1 - best: 1.0, F1 - fixed: 0.004618937644341801
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_458663_up.png',)
+Step 388: F1 - best: 0.005373739171773195, F1 - fixed: 0.002081740855790655
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_111179_up.png',)
+Step 389: F1 - best: 0.9533898234367371, F1 - fixed: 0.18450184501845018
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_488075_up.png',)
+Step 390: F1 - best: 0.0, F1 - fixed: 0.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_292330_up.png',)
+Step 391: F1 - best: 0.0007307804771699011, F1 - fixed: 0.00016274717226788185
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_2149_up.png',)
+Step 392: F1 - best: 0.8950159549713135, F1 - fixed: 0.7608829695400172
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_546826_up.png',)
+Step 393: F1 - best: 0.9996705055236816, F1 - fixed: 0.9849583378422249
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_524108_up.png',)
+Step 394: F1 - best: 0.9800081253051758, F1 - fixed: 0.969534787978592
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_47121_up.png',)
+Step 395: F1 - best: 0.6223685145378113, F1 - fixed: 0.5759769839367058
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_294855_up.png',)
+Step 396: F1 - best: 0.9684102535247803, F1 - fixed: 0.9681424100959318
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_364587_up.png',)
+Step 397: F1 - best: 0.9306997060775757, F1 - fixed: 0.40226133741175185
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416256_up.png',)
+Step 398: F1 - best: 0.35547271370887756, F1 - fixed: 0.3045977011494253
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_13597_up.png',)
+Step 399: F1 - best: 1.0, F1 - fixed: 0.9984641713107201
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_475779_up.png',)
+Step 400: F1 - best: 0.9601861834526062, F1 - fixed: 0.4759670746790634
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_17031_up.png',)
+Step 401: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_382088_up.png',)
+Step 402: F1 - best: 0.9771934747695923, F1 - fixed: 0.5111824014665445
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_186938_up.png',)
+Step 403: F1 - best: 0.9821294546127319, F1 - fixed: 0.9525455158462576
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_255718_up.png',)
+Step 404: F1 - best: 0.6872223615646362, F1 - fixed: 0.5552680697689386
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_338191_up.png',)
+Step 405: F1 - best: 0.6117594838142395, F1 - fixed: 0.32121790254443516
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_406570_up.png',)
+Step 406: F1 - best: 0.19748997688293457, F1 - fixed: 0.10160210275987233
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_414261_up.png',)
+Step 407: F1 - best: 0.8526821136474609, F1 - fixed: 0.5413430234914288
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_532575_up.png',)
+Step 408: F1 - best: 0.9524369239807129, F1 - fixed: 0.5070667421857507
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_508482_up.png',)
+Step 409: F1 - best: 0.9808754920959473, F1 - fixed: 0.9808671803578425
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_537672_up.png',)
+Step 410: F1 - best: 0.9413103461265564, F1 - fixed: 0.9059988593353036
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_153217_up.png',)
+Step 411: F1 - best: 0.9670773148536682, F1 - fixed: 0.5488149104268024
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_455267_up.png',)
+Step 412: F1 - best: 0.9762548804283142, F1 - fixed: 0.9146642691525103
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_104612_up.png',)
+Step 413: F1 - best: 0.4666983187198639, F1 - fixed: 0.3183342754852082
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_160666_up.png',)
+Step 414: F1 - best: 0.5466101765632629, F1 - fixed: 0.3867664434816857
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_242287_up.png',)
+Step 415: F1 - best: 0.5416196584701538, F1 - fixed: 0.19452393144371818
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_475678_up.png',)
+Step 416: F1 - best: 0.8839216828346252, F1 - fixed: 0.8801761575631537
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_171050_up.png',)
+Step 417: F1 - best: 0.991981565952301, F1 - fixed: 0.2792856831996286
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_310200_up.png',)
+Step 418: F1 - best: 0.9974428415298462, F1 - fixed: 0.9969073614169908
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_520871_up.png',)
+Step 419: F1 - best: 0.9614912271499634, F1 - fixed: 0.9131332571520218
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_411665_up.png',)
+Step 420: F1 - best: 0.5793678760528564, F1 - fixed: 0.5725525332138707
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_96960_up.png',)
+Step 421: F1 - best: 0.842046320438385, F1 - fixed: 0.7691852144302423
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_504439_up.png',)
+Step 422: F1 - best: 0.9892836809158325, F1 - fixed: 0.9857464911642789
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_110211_up.png',)
+Step 423: F1 - best: 0.7441992163658142, F1 - fixed: 0.723753280839895
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_231088_up.png',)
+Step 424: F1 - best: 0.8884904980659485, F1 - fixed: 0.74865531605128
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_233567_up.png',)
+Step 425: F1 - best: 1.0, F1 - fixed: 0.9987939512014101
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_226130_up.png',)
+Step 426: F1 - best: 0.9810895323753357, F1 - fixed: 0.9605855019967043
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_180296_up.png',)
+Step 427: F1 - best: 0.7376999855041504, F1 - fixed: 0.5348169322629336
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_272049_up.png',)
+Step 428: F1 - best: 0.9684198498725891, F1 - fixed: 0.9523460211372836
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_404568_up.png',)
+Step 429: F1 - best: 1.0, F1 - fixed: 0.9900771775082691
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_577182_up.png',)
+Step 430: F1 - best: 0.9190288782119751, F1 - fixed: 0.6412181303116147
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_343076_up.png',)
+Step 431: F1 - best: 0.2173546701669693, F1 - fixed: 0.1443608552168541
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_366199_up.png',)
+Step 432: F1 - best: 0.9747887849807739, F1 - fixed: 0.8935283907760972
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_26926_up.png',)
+Step 433: F1 - best: 0.8894423842430115, F1 - fixed: 0.5270620739987749
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_80413_up.png',)
+Step 434: F1 - best: 0.7228773832321167, F1 - fixed: 0.3979781856876829
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_369771_up.png',)
+Step 435: F1 - best: 0.1854390799999237, F1 - fixed: 0.10252468515343227
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_311518_up.png',)
+Step 436: F1 - best: 0.7866755127906799, F1 - fixed: 0.6080967579371745
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_141597_up.png',)
+Step 437: F1 - best: 0.5323914289474487, F1 - fixed: 0.07994535773607166
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_246308_up.png',)
+Step 438: F1 - best: 0.985015332698822, F1 - fixed: 0.9831674208144796
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_499768_up.png',)
+Step 439: F1 - best: 0.23790240287780762, F1 - fixed: 0.06344686365163417
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_219283_up.png',)
+Step 440: F1 - best: 0.8845365643501282, F1 - fixed: 0.7610903260288616
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_143998_up.png',)
+Step 441: F1 - best: 0.9975048303604126, F1 - fixed: 0.9958597847088049
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_512648_up.png',)
+Step 442: F1 - best: 0.33472368121147156, F1 - fixed: 0.04307604725081835
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_545407_up.png',)
+Step 443: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_51961_up.png',)
+Step 444: F1 - best: 0.5090159773826599, F1 - fixed: 0.040426903066597505
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_209972_up.png',)
+Step 445: F1 - best: 0.6052631735801697, F1 - fixed: 0.07407407407407407
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_570456_up.png',)
+Step 446: F1 - best: 0.9784355163574219, F1 - fixed: 0.9696191698759092
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_571313_up.png',)
+Step 447: F1 - best: 0.17845459282398224, F1 - fixed: 0.04335816263190565
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_189436_up.png',)
+Step 448: F1 - best: 0.36054420471191406, F1 - fixed: 0.022913256955810146
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_248980_up.png',)
+Step 449: F1 - best: 0.015789473429322243, F1 - fixed: 0.0007052304592393586
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_138819_up.png',)
+Step 450: F1 - best: 0.6068222522735596, F1 - fixed: 0.5611718588817826
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_453722_up.png',)
+Step 451: F1 - best: 0.9918808937072754, F1 - fixed: 0.023137970282364313
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_148707_up.png',)
+Step 452: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_485972_up.png',)
+Step 453: F1 - best: 0.03085239604115486, F1 - fixed: 0.007437661904232157
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_30213_up.png',)
+Step 454: F1 - best: 0.020980944857001305, F1 - fixed: 0.011490468508214533
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_478393_up.png',)
+Step 455: F1 - best: 0.6456218361854553, F1 - fixed: 0.5494574421376153
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_344795_up.png',)
+Step 456: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_528980_up.png',)
+Step 457: F1 - best: 0.7545281052589417, F1 - fixed: 0.14343969661869477
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_79034_up.png',)
+Step 458: F1 - best: 0.9995231032371521, F1 - fixed: 0.9215333161821456
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_311909_up.png',)
+Step 459: F1 - best: 0.9718342423439026, F1 - fixed: 0.7070219026574003
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_318080_up.png',)
+Step 460: F1 - best: 0.719176173210144, F1 - fixed: 0.5901653499114968
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_244019_up.png',)
+Step 461: F1 - best: 0.4041409492492676, F1 - fixed: 0.05400354438537135
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_567898_up.png',)
+Step 462: F1 - best: 0.1130991131067276, F1 - fixed: 0.06268594310342054
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_470121_up.png',)
+Step 463: F1 - best: 0.40819963812828064, F1 - fixed: 0.21403671856844061
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_64495_up.png',)
+Step 464: F1 - best: 0.8752260208129883, F1 - fixed: 0.22194719471947194
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_95899_up.png',)
+Step 465: F1 - best: 0.9933449625968933, F1 - fixed: 0.9225476804775636
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_521405_up.png',)
+Step 466: F1 - best: 0.16744406521320343, F1 - fixed: 0.0684879182927842
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_210502_up.png',)
+Step 467: F1 - best: 0.99644935131073, F1 - fixed: 0.9748243923665071
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_216636_up.png',)
+Step 468: F1 - best: 0.840202271938324, F1 - fixed: 0.7765537998495109
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_243344_up.png',)
+Step 469: F1 - best: 0.8923490643501282, F1 - fixed: 0.45791947161183794
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_480842_up.png',)
+Step 470: F1 - best: 0.3297130763530731, F1 - fixed: 0.09171011087451354
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_320632_up.png',)
+Step 471: F1 - best: 0.9097240567207336, F1 - fixed: 0.9086554990456545
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_359855_up.png',)
+Step 472: F1 - best: 0.9555290937423706, F1 - fixed: 0.45033058414559335
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_174231_up.png',)
+Step 473: F1 - best: 0.9966337084770203, F1 - fixed: 0.3216684340756451
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_172330_up.png',)
+Step 474: F1 - best: 0.7018424868583679, F1 - fixed: 0.6972590011614402
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_10363_up.png',)
+Step 475: F1 - best: 0.696599543094635, F1 - fixed: 0.6931335373932112
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_478286_up.png',)
+Step 476: F1 - best: 0.616922914981842, F1 - fixed: 0.22363165846434607
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_580757_up.png',)
+Step 477: F1 - best: 0.9939514994621277, F1 - fixed: 0.9933161350844277
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_83113_up.png',)
+Step 478: F1 - best: 0.9774180054664612, F1 - fixed: 0.9747970952584366
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_259625_up.png',)
+Step 479: F1 - best: 1.0, F1 - fixed: 0.9993353273512795
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_532129_up.png',)
+Step 480: F1 - best: 0.9222499132156372, F1 - fixed: 0.8558213557467549
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_548506_up.png',)
+Step 481: F1 - best: 0.4190698564052582, F1 - fixed: 0.36741841016816107
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_572956_up.png',)
+Step 482: F1 - best: 0.912913978099823, F1 - fixed: 0.901344814755754
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_328286_up.png',)
+Step 483: F1 - best: 0.6023127436637878, F1 - fixed: 0.07349529138801693
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_132622_up.png',)
+Step 484: F1 - best: 0.9913347959518433, F1 - fixed: 0.9691571673262064
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_57027_up.png',)
+Step 485: F1 - best: 0.9007365703582764, F1 - fixed: 0.8788607406672946
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_369751_up.png',)
+Step 486: F1 - best: 0.5483773350715637, F1 - fixed: 0.5120199812675617
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_458702_up.png',)
+Step 487: F1 - best: 0.6697187423706055, F1 - fixed: 0.4207825529185375
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_51309_up.png',)
+Step 488: F1 - best: 0.5914878845214844, F1 - fixed: 0.41453295204720897
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_31269_up.png',)
+Step 489: F1 - best: 0.7837626934051514, F1 - fixed: 0.7211630777671101
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_199681_up.png',)
+Step 490: F1 - best: 0.9934746026992798, F1 - fixed: 0.990787134313884
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_581781_up.png',)
+Step 491: F1 - best: 0.49062973260879517, F1 - fixed: 0.40357150413642806
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_293044_up.png',)
+Step 492: F1 - best: 1.0, F1 - fixed: 0.9989975232928411
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_91654_up.png',)
+Step 493: F1 - best: 0.09045930951833725, F1 - fixed: 0.08480911101109524
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_50331_up.png',)
+Step 494: F1 - best: 0.06918556243181229, F1 - fixed: 0.0530747886687746
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_534664_up.png',)
+Step 495: F1 - best: 0.9514184594154358, F1 - fixed: 0.8402191650546291
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_290592_up.png',)
+Step 496: F1 - best: 0.6983763575553894, F1 - fixed: 0.39441319107662465
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_88265_up.png',)
+Step 497: F1 - best: 0.36944007873535156, F1 - fixed: 0.03744719716862656
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_183965_up.png',)
+Step 498: F1 - best: 1.0, F1 - fixed: 0.9994321408290744
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_546829_up.png',)
+Step 499: F1 - best: 1.0, F1 - fixed: 0.9759422614274258
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_416991_up.png',)
+Step 500: F1 - best: 0.0033769523724913597, F1 - fixed: 0.0005479545882634976
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_393282_up.png',)
+Step 501: F1 - best: 0.20352472364902496, F1 - fixed: 0.006425213891988773
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_409630_up.png',)
+Step 502: F1 - best: 0.9817629456520081, F1 - fixed: 0.049707512786744665
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_189451_up.png',)
+Step 503: F1 - best: 1.0, F1 - fixed: 0.9254658385093167
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_213224_up.png',)
+Step 504: F1 - best: 0.06066970154643059, F1 - fixed: 0.02114923548371731
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_384513_up.png',)
+Step 505: F1 - best: 0.0282574575394392, F1 - fixed: 0.012371270791529162
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_365766_up.png',)
+Step 506: F1 - best: 0.678737223148346, F1 - fixed: 0.3192436040044494
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_324715_up.png',)
+Step 507: F1 - best: 1.0, F1 - fixed: 1.0
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_248314_up.png',)
+Step 508: F1 - best: 1.0, F1 - fixed: 0.8105625717566016
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_544811_up.png',)
+Step 509: F1 - best: 0.00944032333791256, F1 - fixed: 0.0006180067655477492
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_105014_up.png',)
+Step 510: F1 - best: 0.013051585294306278, F1 - fixed: 0.011374955817615115
+Processing file: ('./CocoGlide/fake/glide_inpainting_val2017_526103_up.png',)
+Step 511: F1 - best: 0.037205770611763, F1 - fixed: 0.005543403850328096
+F1 - best: 0.722051203250885
+F1 - fixed: 0.5430893749890335
