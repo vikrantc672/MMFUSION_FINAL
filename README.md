@@ -1,6 +1,7 @@
 # MMFUSION 
 
 Initial steps:\
+=>Firstly Put The CKPT FOLDER
 1. python3 -m venv m
 yenv
 2. source myenv/bin/activate
